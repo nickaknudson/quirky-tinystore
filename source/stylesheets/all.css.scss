@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+$width: 800px;
+
+body{
+    display:block;
+    background-color: #DDD;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+a{
+    color:inherit;
+    text-decoration:inherit;
+}
+.left{
+    float:left;
+}
