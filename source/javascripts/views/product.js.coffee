@@ -19,10 +19,10 @@ Views.Product = Backbone.Marionette.ItemView.extend(
       selector: '[name=summary]'
       converter: (direction, value)->
         return value.summary if value?
-    #price:
-    #  selector: '[name=price]'
-    #  converter: (direction, value)->
-    #    return value.formatted if value?
+    price:
+      selector: '[name=price]'
+      converter: (direction, value)->
+        return value.formatted if value?
     images: [
       # {
       #  selector: '[name=image_small]'

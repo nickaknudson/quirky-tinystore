@@ -38,6 +38,7 @@ a{
   position:relative;
   margin-left:2px;
   margin-right:3px;
+  cursor:pointer;
 }
 .pic_normal{
   width:195px;
@@ -78,12 +79,23 @@ a{
 .pic_footer_featured{
   width:450px - 2*6px;
 }
+.pic_footer_info{
+  height:14px;
+  margin-bottom:4px;
+}
 .pic_footer_name{
+  float:left;
   height:12px;
   font-size:14px;
   font-weight:bold;
   color:#96F;
-  margin-bottom:4px;
+}
+.pic_footer_price{
+  float:right;
+  height:12px;
+  font-size:14px;
+  font-weight:bold;
+  color:#CCC;
 }
 .pic_footer_tagline{
   font-weight:bold;
