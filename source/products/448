@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 448,
+    "ideationID"         : 298588,
+    "name"               : "Keeper",
+    "url"                : "/products/448-Keeper-stick-on-wallet",
+    "tagline"            : "Out of Pocket",
+    "paidOut"            : "",
+    "price"              : {
+      "formatted"        : "$34.99",
+      "raw"              : 34.99
+    },
+    "influencerCount"      : 88,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2012-09-12 15:59:30 -0400",
+      "development"      : {
+        "started"        : "2012-09-13 21:45:59 -0400",
+        "ended"          : "2012-11-21 16:34:43 -0500"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 2267,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/266845/icon/keeper-02.jpg?1353685235",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/266845/thumb/keeper-02.jpg?1353685235",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/266845/one95/keeper-02.jpg?1353685235",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/266845/mid/keeper-02.jpg?1353685235",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/266845/large/keeper-02.jpg?1353685235",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/266845/five25/keeper-02.jpg?1353685235",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/266845/six95/keeper-02.jpg?1353685235"
+    },
+    "description"        : {
+      "summary"          : "Keeper is a leather card case that fits onto an iPhone 5, providing the utility of a wallet without the added bulk. . Simply clip the case onto the back of your device for instant storage on the go, including two credit cards slots and an open window slot for an ID.",
+      "raw"              : "<p>Keeper is a leather card case that fits onto an iPhone 5, providing the utility of a wallet without the added bulk. Simply clip the case onto the back of your device for instant storage on the go, including two credit cards slots and an open window slot for an ID. Combining a smooth leather surface and easy-open clasp with a protective shell, Keeper seamlessly blends the aesthetics of a phone case and a wallet, with no good feature left behind.</p>\r\n\r\n<p><strong>Features:</strong><br/>\r\n- Three card slots for credit cards and ID<br/>\r\n- Leather wallet flap to keep cards safe and secure<br/>\r\n- Plastic hard case for additional protection</p>\r\n\r\n<p><strong>Materials:</strong><br/>\r\n- Leather<br/>\r\n- Plastic</p>\r\n\r\n<p><strong>Dimensions:</strong><br/>\r\n- 125mm H x 60mm W x 11mm D</p>",
+      "formatted"        : "<p>Keeper is a leather card case that fits onto an iPhone 5, providing the utility of a wallet without the added bulk. Simply clip the case onto the back of your device for instant storage on the go, including two credit cards slots and an open window slot for an ID. Combining a smooth leather surface and easy-open clasp with a protective shell, Keeper seamlessly blends the aesthetics of a phone case and a wallet, with no good feature left behind.</p>\n<p><strong>Features:</strong><br/>\n- Three card slots for credit cards and ID<br/>\n- Leather wallet flap to keep cards safe and secure<br/>\n- Plastic hard case for additional protection</p>\n<p><strong>Materials:</strong><br/>\n- Leather<br/>\n- Plastic</p>\n<p><strong>Dimensions:</strong><br/>\n- 125mm H x 60mm W x 11mm D</p>"
+    },
+    "inventor" : {
+      "name"             : "Don Darnell",
+      "id"             : "10440",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/10439/icon/Lilo&Stitch2010.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/10439/thumb/Lilo&Stitch2010.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/10439/one95/Lilo&Stitch2010.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/10439/mid/Lilo&Stitch2010.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/10439/five25/Lilo&Stitch2010.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/10439/six95/Lilo&Stitch2010.jpg"
+      }
+    }
+  }
+}

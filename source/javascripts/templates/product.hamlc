@@ -1,0 +1,7 @@
+.pic_item.pic_item_normal
+  .pic.pic_normal
+    %img.pic_img{name:'image_large', src:'images/ajax-loader.gif'}
+    .pic_footer.pic_footer_normal
+      .pic_footer_name{name:'name'}
+      .pic_footer_tagline{name:'tagline'}
+      .pic_footer_summary{name:'summary'}
