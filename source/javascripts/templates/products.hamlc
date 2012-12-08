@@ -1,5 +1,5 @@
 .left.nav
-  .nav_item
+  .nav_item_home
     %a{href:'#home'}
       .icon_home
   .nav_item
