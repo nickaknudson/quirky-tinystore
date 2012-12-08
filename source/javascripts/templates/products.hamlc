@@ -1,2 +1,20 @@
+.left.nav
+  .nav_item
+    %a{href:'#home'}
+      .icon_home
+  .nav_item
+    %a{href:'#iphone_cases'}iPhone Cases
+  .nav_item
+    %a{href:'#electronics'}Electronics
+  .nav_item
+    %a{href:'#kitchen'}Kitchen
+  .nav_item
+    %a{href:'#organization'}Organization
+  .nav_item
+    %a{href:'#gadgets'}Gadgets
+  .nav_item
+    %a{href:'#housewares'}Housewares
+
 .left.list_content
 .left.list_footer
+  #div FACE

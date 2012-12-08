@@ -9,6 +9,7 @@ Views.Product = Backbone.Marionette.ItemView.extend(
     'mouseenter .pic_featured': 'show_info_featured'
     'mouseleave .pic_featured': 'hide_info_featured'
     'click .pic_item_featured': 'make_normal'
+    'click .purchase_addtocart': 'addToCart'
 
   modelBindings:
     name:
@@ -23,6 +24,21 @@ Views.Product = Backbone.Marionette.ItemView.extend(
       selector: '[name=price]'
       converter: (direction, value)->
         return value.formatted if value?
+    influencerCount:
+      selector: '[name=influencerCount]'
+    inventor: [
+      {
+      selector: '[name=inventor_pic]'
+      elAttribute: 'src'
+      converter: (direction, value)->
+        return value.images.icon if value?
+      },
+      {
+      selector: '[name=inventor_name]'
+      converter: (direction, value)->
+        return value.name if value?
+      }
+    ]
     images: [
       # {
       #  selector: '[name=image_small]'
@@ -34,7 +50,7 @@ Views.Product = Backbone.Marionette.ItemView.extend(
         selector: '[name=image_large]'
         elAttribute: 'src'
         converter: (direction, value)->
-          return value.large if value?
+          return value.five25 if value?
       }
     ]
 
@@ -65,6 +81,9 @@ Views.Product = Backbone.Marionette.ItemView.extend(
         @$('.pic_footer_summary').animate(
           height: 'show'
         )
+        @$('.product_info').animate(
+          width: 'show'
+        )
       )
     )
 
@@ -80,6 +99,9 @@ Views.Product = Backbone.Marionette.ItemView.extend(
 
   make_normal: ()->
     console.log('make_normal')
+    @$('.product_info').animate(
+      width: 'hide'
+    )
     @$('.pic_footer_summary').animate({height: 'hide'}, ()=>
       @$('.pic_item').switchClass('pic_item_featured', 'pic_item_normal')
       @$('.pic').switchClass('pic_featured', 'pic_normal')
@@ -89,5 +111,9 @@ Views.Product = Backbone.Marionette.ItemView.extend(
         )
       )
     )
+
+  addToCart: (e)->
+    e.preventDefault()
+    return false
 
 )

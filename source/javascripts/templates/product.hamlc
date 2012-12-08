@@ -1,5 +1,5 @@
 .pic_item.pic_item_normal
-  .pic.pic_normal
+  .pic.pic_normal.left
     %img.pic_img{name:'image_large', src:'images/ajax-loader.gif'}
     .pic_footer.pic_footer_normal
       .pic_footer_info
@@ -7,3 +7,22 @@
         .pic_footer_price{name:'price'}
       .pic_footer_tagline{name:'tagline'}
       .pic_footer_summary{name:'summary'}
+  .product_info.left
+    .product_purchase
+      .purchase_name{name:'name'}
+      .purchase_tagline{name:'tagline'}
+      .purchase_price{name:'price'}
+      .purchase_divide
+      %a.purchase_addtocart
+        Add to Cart
+    .product_influence
+      .product_influence_title
+        Influence & Stats
+      .product_invent
+        .product_invent_pic
+          %img{name:'inventor_pic', src:'images/ajax-loader.gif'}
+        .product_invent_name{name:'inventor_name'}
+      .product_influence_count
+        .product_influence_count_title
+          Number of Influencers:
+        .product_influence_count_number{name:'influencerCount'}
