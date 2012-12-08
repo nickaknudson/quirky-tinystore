@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 456,
+    "ideationID"         : 297204,
+    "name"               : "Folio",
+    "url"                : "/products/456-Folio-case-with-storage-for-earpods-IDs-and-credit-cards",
+    "tagline"            : "Stow Your Stash",
+    "paidOut"            : "",
+    "price"              : {
+      "formatted"        : "$39.99",
+      "raw"              : 39.99
+    },
+    "influencerCount"      : 108,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2012-09-09 14:20:44 -0400",
+      "development"      : {
+        "started"        : "2012-09-13 21:47:21 -0400",
+        "ended"          : "2012-11-21 16:34:15 -0500"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 346,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/265429/icon/PRODUCT_FEATURES_01.jpg?1353364552",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265429/thumb/PRODUCT_FEATURES_01.jpg?1353364552",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265429/one95/PRODUCT_FEATURES_01.jpg?1353364552",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/265429/mid/PRODUCT_FEATURES_01.jpg?1353364552",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265429/large/PRODUCT_FEATURES_01.jpg?1353364552",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265429/five25/PRODUCT_FEATURES_01.jpg?1353364552",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/265429/six95/PRODUCT_FEATURES_01.jpg?1353364552"
+    },
+    "description"        : {
+      "summary"          : "With a built-in wallet, earbud wrap and storage compartment, Folio is the iPhone 5 case that does it all. . Behind its hinged compartment door, Folio offers integrated cord management for earbuds, along with storage space for everything from aspirin to a microfiber.",
+      "raw"              : "<p>With a built-in wallet, earbud wrap and storage compartment, Folio is the iPhone 5 case that does it all. Behind its hinged compartment door, Folio offers integrated cord management for earbuds, along with storage space for everything from aspirin to a microfiber. Three credit card slots on the back of the leather case round out this functional beauty, the one and only device you\u2019ll need in your pockets.</p>\r\n\r\n<p><strong>Features:</strong><br/>\r\n- Cord wrap for earbud management<br/>\r\n- Hinged cover to keep earbuds secure<br/>\r\n- Three card slots for credit cards or metro passes<br/>\r\n- Extra compartment for small objects such as gum, a microfiber, etc.<br/>\r\n- Plastic hard case for comprehensive protection</p>\r\n\r\n<p><strong>Materials:</strong><br/>\r\n- Leather<br/>\r\n- Plastic</p>\r\n\r\n<p><strong>Dimensions:</strong><br/>\r\n- 125mm H x 60mm W x 18mm D</p>",
+      "formatted"        : "<p>With a built-in wallet, earbud wrap and storage compartment, Folio is the iPhone 5 case that does it all. Behind its hinged compartment door, Folio offers integrated cord management for earbuds, along with storage space for everything from aspirin to a microfiber. Three credit card slots on the back of the leather case round out this functional beauty, the one and only device you\u2019ll need in your pockets.</p>\n<p><strong>Features:</strong><br/>\n- Cord wrap for earbud management<br/>\n- Hinged cover to keep earbuds secure<br/>\n- Three card slots for credit cards or metro passes<br/>\n- Extra compartment for small objects such as gum, a microfiber, etc.<br/>\n- Plastic hard case for comprehensive protection</p>\n<p><strong>Materials:</strong><br/>\n- Leather<br/>\n- Plastic</p>\n<p><strong>Dimensions:</strong><br/>\n- 125mm H x 60mm W x 18mm D</p>"
+    },
+    "inventor" : {
+      "name"             : "Ernesto Tan",
+      "id"             : "151182",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/176119/icon/photo (3) New  York back ground.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/176119/thumb/photo (3) New  York back ground.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/176119/one95/photo (3) New  York back ground.JPG",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/176119/mid/photo (3) New  York back ground.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/176119/five25/photo (3) New  York back ground.JPG",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/176119/six95/photo (3) New  York back ground.JPG"
+      }
+    }
+  }
+}

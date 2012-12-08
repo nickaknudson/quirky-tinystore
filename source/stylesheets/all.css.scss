@@ -26,6 +26,38 @@ a{
   width:$width;
   padding-top:80px;
 }
+.scroll_content{
+  margin-left: -16px;
+  margin-right: -16px;
+  width:$width + 2*14;
+}
+.scroll_left_hold{
+  float:left;
+  height:133px;
+  width:14px;
+}
+.scroll_left{
+  float:left;
+  height:100%;
+  width:100%;
+  background-color:#333;
+  opacity:0.7;
+}
+.scroll_icon{
+  margin-top:133px/2 - 10px;
+}
+.scroll_right_hold{
+  float:right;
+  height:133px;
+  width:14px;
+}
+.scroll_right{
+  float:right;
+  height:100%;
+  width:100%;
+  background-color:#333;
+  opacity:0.7;
+}
 .nav{
   padding:6px;
   margin-bottom:6px;
@@ -67,9 +99,12 @@ a{
     height:36px;
     background:url(../images/logo-medium-white.png) 0 0;
 }
-.list_content{
-  max-height:300px;
+.list_content_hold{
+  width:$width;
+  height:133px;
   overflow:hidden;
+}
+.list_content{
 }
 .pic_item{
   float:left;

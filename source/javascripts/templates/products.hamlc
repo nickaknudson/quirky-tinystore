@@ -14,8 +14,17 @@
     %a{href:'#gadgets'}Gadgets
   .nav_item
     %a{href:'#housewares'}Housewares
-
-.left.list_content
+.scroll_content
+  .scroll_left_hold
+    .scroll_left
+      .scroll_icon
+        %i.icon-chevron-left
+  .left.list_content_hold
+    .list_content
+  .scroll_right_hold
+    .scroll_right
+      .scroll_icon
+        %i.icon-chevron-right
 .left.list_footer
   .icon_quirky.right
   .power 
