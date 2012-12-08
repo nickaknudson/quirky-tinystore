@@ -17,4 +17,6 @@
 
 .left.list_content
 .left.list_footer
-  #div FACE
+  .icon_quirky.right
+  .power 
+    Powered by

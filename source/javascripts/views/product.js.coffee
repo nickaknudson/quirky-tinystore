@@ -74,6 +74,11 @@ Views.Product = Backbone.Marionette.ItemView.extend(
 
   make_feature: ()->
     console.log('make_feature')
+    @$el.siblings().each((index)->
+      $(this).animate(
+        width: 'hide'
+      )
+    )
     @$('.pic_footer_tagline').animate({height: 'show'}, ()=>
       @$('.pic_item').switchClass('pic_item_normal', 'pic_item_featured')
       @$('.pic').switchClass('pic_normal', 'pic_featured')
@@ -108,6 +113,11 @@ Views.Product = Backbone.Marionette.ItemView.extend(
       @$('.pic_footer').switchClass('pic_footer_featured', 'pic_footer_normal', ()=>
         @$('.pic_footer_tagline').animate(
           height: 'hide'
+        )
+        @$el.siblings().each((index)->
+          $(this).animate(
+            width: 'show'
+          )
         )
       )
     )

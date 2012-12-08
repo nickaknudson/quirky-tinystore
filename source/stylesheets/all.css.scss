@@ -14,6 +14,9 @@ a{
 .left{
   float:left;
 }
+.right{
+  float:right;
+}
 #app{
   width:$width;
   margin-left:auto;
@@ -37,6 +40,11 @@ a{
     width:23px;
     height:21px;
     background:url(../images/home_icon.png) 0 0;
+}
+.icon_quirky{
+    width:131px;
+    height:36px;
+    background:url(../images/logo-medium-white.png) 0 0;
 }
 .list_content{
   max-height:300px;
@@ -248,4 +256,30 @@ $btn_margin: 44px;
   font-weight:bold;
   color:#5A6A80;
   margin-left:6px;
+}
+.list_footer {
+  padding:6px;
+  margin-top:6px;
+  padding-top:4px;
+  padding-bottom:4px;
+  width:$width - 2*6px;
+  height: 36px;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.8);
+  background-color: #492B5D;
+  background: -webkit-linear-gradient(top,#55356A 0,#3E2151 100%);
+  background: -moz-linear-gradient(top,#55356A 0,#3E2151 100%);
+  background: -o-linear-gradient(top,#55356A 0,#3E2151 100%);
+  background: -ms-linear-gradient(top,#55356A 0,#3E2151 100%);
+  background: linear-gradient(top,#55356A 0,#3E2151 100%);
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+.power{
+  margin-top:4px;
+  margin-right:6px;
+  float:right;
+  height:10px;
+  font-size:12px;
+  font-weight:bold;
+  color:#EEE;
 }
