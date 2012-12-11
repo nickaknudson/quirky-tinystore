@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 36,
+    "ideationID"         : 18545,
+    "name"               : "Broom Groomer",
+    "url"                : "/products/36-Broom-Groomer-Broom-Cleaning-Dustpan",
+    "tagline"            : "A Sweeping Improvement In Dustpans",
+    "paidOut"            : "$33,831.25",
+    "price"              : {
+      "formatted"        : "$11.99",
+      "raw"              : 11.99
+    },
+    "influencerCount"      : 421,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2010-03-02 13:08:50 -0500",
+      "development"      : {
+        "started"        : "2010-03-15 17:36:08 -0400",
+        "ended"          : "2010-04-16 16:06:02 -0400"
+      },
+      "sales": {
+        "started"        : "2010-11-23 17:43:08 -0500",
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 47587,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/176813/icon/BROOM_GROOMER_SHOP_01.jpg?1337719981",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176813/thumb/BROOM_GROOMER_SHOP_01.jpg?1337719981",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176813/one95/BROOM_GROOMER_SHOP_01.jpg?1337719981",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/176813/mid/BROOM_GROOMER_SHOP_01.jpg?1337719981",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176813/large/BROOM_GROOMER_SHOP_01.jpg?1337719981",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176813/five25/BROOM_GROOMER_SHOP_01.jpg?1337719981",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/176813/six95/BROOM_GROOMER_SHOP_01.jpg?1337719981"
+    },
+    "description"        : {
+      "summary"          : "The Broom Groomer is a step-on dustpan with added functionality that makes sweeping easier. . Rubber “teeth” on the back of the dustpan let you quickly and easily comb out dust bunnies from your broom’s bristles, while a smooth rubber “lip” on the front keeps the dustpan flush with the floor so nothing slips through the cracks.",
+      "raw"              : "The Broom Groomer is a step-on dustpan with added functionality that makes sweeping easier. Rubber \u201cteeth\u201d on the back of the dustpan let you quickly and easily comb out dust bunnies from your broom\u2019s bristles, while a smooth rubber \u201clip\u201d on the front keeps the dustpan flush with the floor so nothing slips through the cracks.\r\n\r\nFeatures:\r\n- A row of rubber teeth protruding from the back end of the dustpan to clean the broom\u2019s bristles when you\u2019re done sweeping.\r\n- A foot pedal built right into the dustpan handle, so that your foot can steady the dustpan for hands-free sweeping.\r\n- The main body of the Broom Groomer is made out of hard plastic, with rubber accents on the handle grip, wall-hanging hole, bristle cleaning teeth, and front lip.\r\n- Color: charcoal/teal.\r\n\r\n<object width=\"500\" height=\"314\"><param name=\"movie\" value=\"http://www.youtube.com/v/8ePiNwWs1DA?fs=1&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/8ePiNwWs1DA?fs=1&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"500\" height=\"314\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>\r\n\r\n<i>Patent pending.</i>",
+      "formatted"        : "<p>The Broom Groomer is a step-on dustpan with added functionality that makes sweeping easier. Rubber \u201cteeth\u201d on the back of the dustpan let you quickly and easily comb out dust bunnies from your broom\u2019s bristles, while a smooth rubber \u201clip\u201d on the front keeps the dustpan flush with the floor so nothing slips through the cracks.</p>\n<p>Features:<br />\n- A row of rubber teeth protruding from the back end of the dustpan to clean the broom\u2019s bristles when you\u2019re done sweeping.<br />\n- A foot pedal built right into the dustpan handle, so that your foot can steady the dustpan for hands-free sweeping.<br />\n- The main body of the Broom Groomer is made out of hard plastic, with rubber accents on the handle grip, wall-hanging hole, bristle cleaning teeth, and front lip.<br />\n- Color: charcoal/teal.</p>\n<p><object width=\"500\" height=\"314\"><param name=\"movie\" value=\"http://www.youtube.com/v/8ePiNwWs1DA?fs=1&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/8ePiNwWs1DA?fs=1&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"500\" height=\"314\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object></p>\n<p><i>Patent pending.</i></p>"
+    },
+    "inventor" : {
+      "name"             : "bill ward",
+      "id"             : "16810",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/icon/IMG_2058.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/thumb/IMG_2058.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/one95/IMG_2058.JPG",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/mid/IMG_2058.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/five25/IMG_2058.JPG",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/six95/IMG_2058.JPG"
+      }
+    }
+  }
+}

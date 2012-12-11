@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 268,
+    "ideationID"         : 268,
+    "name"               : "Broom Groomer Mini",
+    "url"                : "/products/268-Broom-Groomer-Mini",
+    "tagline"            : "",
+    "paidOut"            : "$2,993.78",
+    "price"              : {
+      "formatted"        : "$9.99",
+      "raw"              : 9.99
+    },
+    "influencerCount"      : 421,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2010-03-02 13:08:50 -0500",
+      "development"      : {
+        "started"        : "2010-03-15 17:36:08 -0400",
+        "ended"          : "2010-04-16 16:06:02 -0400"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 6736,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/145636/icon/PRODUCT_FEATURES_01.jpg?1332274909",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/145636/thumb/PRODUCT_FEATURES_01.jpg?1332274909",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/145636/one95/PRODUCT_FEATURES_01.jpg?1332274909",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/145636/mid/PRODUCT_FEATURES_01.jpg?1332274909",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/145636/large/PRODUCT_FEATURES_01.jpg?1332274909",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/145636/five25/PRODUCT_FEATURES_01.jpg?1332274909",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/145636/six95/PRODUCT_FEATURES_01.jpg?1332274909"
+    },
+    "description"        : {
+      "summary"          : "Broom Groomer Mini is a readily accessible, compact broom and dustpan duo. . The dustpan base acts as a bin to hold and transfer waste.",
+      "raw"              : "Broom Groomer Mini is a readily accessible, compact broom and dustpan duo. The dustpan base acts as a bin to hold and transfer waste. It features grooming teeth for removing any lingering dust bunnies from your broom, and a smooth rubber lip for keeping flush with your surface.  \r\n\r\n<b>Features:</b>\r\n- A row of rubber teeth protruding from the interior of the dustpan to clean the broom\u2019s bristles when you\u2019re done sweeping\r\n- Bin to hold and transfer waste\r\n- Convenient storage anywhere, including desk drawer, under the bathroom sink, in the glove compartment or seat back pocket\r\n\r\n<b>Dimensions:</b>\r\n- 6.5\" width x 2\" height x 6.5\" depth\r\n\r\n<b>Materials:</b>\r\n- Hard plastic body\r\n- Nylon bristles\r\n- Color: charcoal/teal",
+      "formatted"        : "<p>Broom Groomer Mini is a readily accessible, compact broom and dustpan duo. The dustpan base acts as a bin to hold and transfer waste. It features grooming teeth for removing any lingering dust bunnies from your broom, and a smooth rubber lip for keeping flush with your surface.</p>\n<p><b>Features:</b><br />\n- A row of rubber teeth protruding from the interior of the dustpan to clean the broom\u2019s bristles when you\u2019re done sweeping<br />\n- Bin to hold and transfer waste<br />\n- Convenient storage anywhere, including desk drawer, under the bathroom sink, in the glove compartment or seat back pocket</p>\n<p><b>Dimensions:</b><br />\n- 6.5&quot; width x 2&quot; height x 6.5&quot; depth</p>\n<p><b>Materials:</b><br />\n- Hard plastic body<br />\n- Nylon bristles<br />\n- Color: charcoal/teal</p>"
+    },
+    "inventor" : {
+      "name"             : "bill ward",
+      "id"             : "16810",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/icon/IMG_2058.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/thumb/IMG_2058.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/one95/IMG_2058.JPG",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/mid/IMG_2058.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/five25/IMG_2058.JPG",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/16810/six95/IMG_2058.JPG"
+      }
+    }
+  }
+}
