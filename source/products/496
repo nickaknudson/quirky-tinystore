@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 496,
+    "ideationID"         : 496,
+    "name"               : "Cordies Executive",
+    "url"                : "/products/496-Cordies-Executive",
+    "tagline"            : "Keep It All On The Table",
+    "paidOut"            : "$1,491.75",
+    "price"              : {
+      "formatted"        : "$24.99",
+      "raw"              : 24.99
+    },
+    "influencerCount"      : 559,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2009-08-24 03:29:39 -0400",
+      "development"      : {
+        "started"        : "2009-09-02 12:12:37 -0400",
+        "ended"          : "2009-09-30 17:29:32 -0400"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 859,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/263077/icon/PRODUCT_FEATURES_01.jpg?1352834643",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/263077/thumb/PRODUCT_FEATURES_01.jpg?1352834643",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/263077/one95/PRODUCT_FEATURES_01.jpg?1352834643",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/263077/mid/PRODUCT_FEATURES_01.jpg?1352834643",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/263077/large/PRODUCT_FEATURES_01.jpg?1352834643",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/263077/five25/PRODUCT_FEATURES_01.jpg?1352834643",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/263077/six95/PRODUCT_FEATURES_01.jpg?1352834643"
+    },
+    "description"        : {
+      "summary"          : "We took Cordies another step further and made the executive version that matches the modern aesthetic. . Cordies Executive is made of sleek metal with black accents.",
+      "raw"              : "We took Cordies another step further and made the executive version that matches the modern aesthetic. Cordies Executive is made of sleek metal with black accents.\r\n\r\nOur classic cable organization product now in a class of its own. It keeps all of your cables and devices organized and weighted down: phones, e-readers, chargers, cords, cables\u2026 whatever isn\u2019t in use but shouldn\u2019t be flopping around.\r\n\r\nFeatures:\r\n- Various slots accommodate accessories like smartphones, e-readers and notebooks, and keep cables from sliding off the table\r\n- Weighted aluminum base for stability\r\n- Varied grip widths keeps cables, cords and devices in line\r\n\r\nDimensions:\r\n7.65\" length x 2.45\" height x 3.50\" width",
+      "formatted"        : "<p>We took Cordies another step further and made the executive version that matches the modern aesthetic. Cordies Executive is made of sleek metal with black accents.</p>\n<p>Our classic cable organization product now in a class of its own. It keeps all of your cables and devices organized and weighted down: phones, e-readers, chargers, cords, cables\u2026 whatever isn\u2019t in use but shouldn\u2019t be flopping around.</p>\n<p>Features:<br />\n- Various slots accommodate accessories like smartphones, e-readers and notebooks, and keep cables from sliding off the table<br />\n- Weighted aluminum base for stability<br />\n- Varied grip widths keeps cables, cords and devices in line</p>\n<p>Dimensions:<br />\n7.65&quot; length x 2.45&quot; height x 3.50&quot; width</p>"
+    },
+    "inventor" : {
+      "name"             : "Stephen Stewart",
+      "id"             : "519",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/icon/cordies.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/thumb/cordies.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/one95/cordies.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/mid/cordies.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/five25/cordies.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/six95/cordies.jpg"
+      }
+    }
+  }
+}

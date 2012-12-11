@@ -8,8 +8,8 @@
 
 $(document).ready ()->
   window.app = new Backbone.Marionette.Application()
-  app.iphone_cases = new Collections.Products({},{list: 'iphone_cases'})
-  app.electronics = new Collections.Products({},{list: 'electronics'})
+  app.iphone_cases = new Collections.Products(null, {list: 'iphone_cases'})
+  app.electronics = new Collections.Products(null, {list: 'electronics'})
 
   # Application Regions
   app.addRegions(

@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 15,
+    "ideationID"         : 5612,
+    "name"               : "PowerCurl",
+    "url"                : "/products/15-PowerCurl-Mac-Cord-Manager",
+    "tagline"            : "Get Wound Up",
+    "paidOut"            : "$90,893.02",
+    "price"              : {
+      "formatted"        : "$12.99",
+      "raw"              : 12.99
+    },
+    "influencerCount"      : 261,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2009-09-09 10:53:25 -0400",
+      "development"      : {
+        "started"        : "2009-09-09 19:29:35 -0400",
+        "ended"          : "2009-09-10 10:10:34 -0400"
+      },
+      "sales": {
+        "started"        : "2009-09-11 10:36:09 -0400",
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 75798,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/204581/icon/POWERCURL_FEATURES_01a.jpg?1342710560",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/204581/thumb/POWERCURL_FEATURES_01a.jpg?1342710560",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/204581/one95/POWERCURL_FEATURES_01a.jpg?1342710560",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/204581/mid/POWERCURL_FEATURES_01a.jpg?1342710560",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/204581/large/POWERCURL_FEATURES_01a.jpg?1342710560",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/204581/five25/POWERCURL_FEATURES_01a.jpg?1342710560",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/204581/six95/POWERCURL_FEATURES_01a.jpg?1342710560"
+    },
+    "description"        : {
+      "summary"          : "The PowerCurl is a clip-on cord wrap for Apple’s 45W, 60W and 85W MagSafe and MagSafe 2 Power Adapters. . PowerCurl makes it easy to unplug and pack up quickly without having to untangle your extension cords the next time you set up shop.",
+      "raw"              : "The PowerCurl is a clip-on cord wrap for Apple\u2019s 45W, 60W and 85W MagSafe and MagSafe 2 Power Adapters. PowerCurl makes it easy to unplug and pack up quickly without having to untangle your extension cords the next time you set up shop.\r\n\r\nFeatures:\r\n\r\n- Both ends of the cord (the plug end and the MagSafe end) can wrap around the device, allowing for quick and easy unraveling.\r\n\r\n- The included clip enables the plug end of your cord to clip to itself, just like your MagSafe end does.\r\n\r\n- Fear over-heated adapters no more -- PowerCurl elevates the power adapter for improved air circulation and cooling.\r\n\r\n- Available in blue and grey for the 45W, 60W and 85W models.\r\n\r\nPowerCurl sizes match up with the default adapters for following MacBook models:\r\n45W : 11- and 13-inch MacBook Air\r\n60W : MacBook, 13-inch MacBook Pro\r\n85W : 15- and 17-inch MacBook Pro, 15-inch MacBook Pro with Retina display",
+      "formatted"        : "<p>The PowerCurl is a clip-on cord wrap for Apple\u2019s 45W, 60W and 85W MagSafe and MagSafe 2 Power Adapters. PowerCurl makes it easy to unplug and pack up quickly without having to untangle your extension cords the next time you set up shop.</p>\n<p>Features:</p>\n<p>- Both ends of the cord (the plug end and the MagSafe end) can wrap around the device, allowing for quick and easy unraveling.</p>\n<p>- The included clip enables the plug end of your cord to clip to itself, just like your MagSafe end does.</p>\n<p>- Fear over-heated adapters no more &#8212; PowerCurl elevates the power adapter for improved air circulation and cooling.</p>\n<p>- Available in blue and grey for the 45W, 60W and 85W models.</p>\n<p>PowerCurl sizes match up with the default adapters for following MacBook models:<br />\n45W : 11- and 13-inch MacBook Air<br />\n60W : MacBook, 13-inch MacBook Pro<br />\n85W : 15- and 17-inch MacBook Pro, 15-inch MacBook Pro with Retina display</p>"
+    },
+    "inventor" : {
+      "name"             : "Jeff Scholen",
+      "id"             : "3652",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/3652/icon/image.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/3652/thumb/image.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/3652/one95/image.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/3652/mid/image.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/3652/five25/image.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/3652/six95/image.jpg"
+      }
+    }
+  }
+}
