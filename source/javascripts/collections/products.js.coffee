@@ -5,10 +5,10 @@ Collections.Products = Backbone.Collection.extend(
   initialize: (models,options)->
     @list = options.list
 
-  urlRoot: "/products"
+  urlRoot: "products"
 
   url: ()->
-    return "/products/#{@list}"
+    return "products/#{@list}"
 
   parse: (res)->
     return res.products

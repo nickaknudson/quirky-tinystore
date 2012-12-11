@@ -1,6 +1,6 @@
 Models.Product = Backbone.RelationalModel.extend(
 
-  urlRoot: "/products"
+  urlRoot: "products"
 
   parse: (res)->
     return res.product
