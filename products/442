@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 442,
+    "ideationID"         : 300829,
+    "name"               : "Pli",
+    "url"                : "/products/442-Pli-eames-inspired-case",
+    "tagline"            : "Blast From the Past",
+    "paidOut"            : "",
+    "price"              : {
+      "formatted"        : "$39.99",
+      "raw"              : 39.99
+    },
+    "influencerCount"      : 125,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2012-09-13 15:40:24 -0400",
+      "development"      : {
+        "started"        : "2012-09-13 21:45:07 -0400",
+        "ended"          : "2012-11-21 16:33:25 -0500"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 330,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/265444/icon/PRODUCT_FEATURES_01.jpg?1353364975",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265444/thumb/PRODUCT_FEATURES_01.jpg?1353364975",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265444/one95/PRODUCT_FEATURES_01.jpg?1353364975",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/265444/mid/PRODUCT_FEATURES_01.jpg?1353364975",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265444/large/PRODUCT_FEATURES_01.jpg?1353364975",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265444/five25/PRODUCT_FEATURES_01.jpg?1353364975",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/265444/six95/PRODUCT_FEATURES_01.jpg?1353364975"
+    },
+    "description"        : {
+      "summary"          : "Pli is an iPhone 5 case that highlights the materials and style of mid-century modern design. . Each case features a unique wood veneer inset carved from U.S.",
+      "raw"              : "<p>Pli is an iPhone 5 case that highlights the materials and style of mid-century modern design. Each case features a unique wood veneer inset carved from U.S. Walnut, oiled and finished for an unforgettable look. The polycarbonate shell snaps on and off an iPhone 5 with ease, providing comprehensive protection while keeping your phone\u2019s profile sleek and unassuming. We\u2019re pretty sure that Don Draper would love it, so why wouldn\u2019t you?</p>\r\n\r\n<p><strong>Features:</strong><br/>\r\n- Polycarbonate shell for protection<br/>\r\n- Wood veneer inset for a one-of-a-kind aesthetic</p>\r\n\r\n<p><strong>Materials:</strong><br/>\r\n- Wood veneer<br/>\r\n- Polycarbonate</p>\r\n\r\n<p><strong>Dimensions:</strong><br/>\r\n- 125mm H x 60mm W x 9mm D</p>",
+      "formatted"        : "<p>Pli is an iPhone 5 case that highlights the materials and style of mid-century modern design. Each case features a unique wood veneer inset carved from U.S. Walnut, oiled and finished for an unforgettable look. The polycarbonate shell snaps on and off an iPhone 5 with ease, providing comprehensive protection while keeping your phone\u2019s profile sleek and unassuming. We\u2019re pretty sure that Don Draper would love it, so why wouldn\u2019t you?</p>\n<p><strong>Features:</strong><br/>\n- Polycarbonate shell for protection<br/>\n- Wood veneer inset for a one-of-a-kind aesthetic</p>\n<p><strong>Materials:</strong><br/>\n- Wood veneer<br/>\n- Polycarbonate</p>\n<p><strong>Dimensions:</strong><br/>\n- 125mm H x 60mm W x 9mm D</p>"
+    },
+    "inventor" : {
+      "name"             : "Adam Pruden",
+      "id"             : "279474",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/302100/icon/290e657.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/302100/thumb/290e657.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/302100/one95/290e657.jpeg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/302100/mid/290e657.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/302100/five25/290e657.jpeg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/302100/six95/290e657.jpeg"
+      }
+    }
+  }
+}

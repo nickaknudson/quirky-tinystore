@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 445,
+    "ideationID"         : 299573,
+    "name"               : "Luminum",
+    "url"                : "/products/445-Luminum-ultra-thin-brushed-aluminum-case",
+    "tagline"            : "Shiny Armor",
+    "paidOut"            : "",
+    "price"              : {
+      "formatted"        : "$34.99",
+      "raw"              : 34.99
+    },
+    "influencerCount"      : 803,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2012-09-12 21:18:56 -0400",
+      "development"      : {
+        "started"        : "2012-09-13 21:45:42 -0400",
+        "ended"          : false
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 2338,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/265465/icon/PRODUCT_FEATURES_01.jpg?1353366508",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265465/thumb/PRODUCT_FEATURES_01.jpg?1353366508",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265465/one95/PRODUCT_FEATURES_01.jpg?1353366508",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/265465/mid/PRODUCT_FEATURES_01.jpg?1353366508",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265465/large/PRODUCT_FEATURES_01.jpg?1353366508",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265465/five25/PRODUCT_FEATURES_01.jpg?1353366508",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/265465/six95/PRODUCT_FEATURES_01.jpg?1353366508"
+    },
+    "description"        : {
+      "summary"          : "Echoing the form of the iPhone 5, Luminum is a minimalist case that dwells on the beauty of brushed aluminum. . An anodized aluminum inset replicates the iPhone 5’s iconic finish in a variety of colors, giving you more freedom to express yourself while staying true to the device’s original form.",
+      "raw"              : "<p>Echoing the form of the iPhone 5, Luminum is a minimalist case that dwells on the beauty of brushed aluminum. An anodized aluminum inset replicates the iPhone 5\u2019s iconic finish in a variety of colors, giving you more freedom to express yourself while staying true to the device\u2019s original form. With its ultra-slim profile, and the peace of mind that security brings, you may forget that Luminum is even there. </p>\r\n\r\n<p><strong>Features:</strong><br/>\r\n- Plastic outer shell for a slim profile<br/>\r\n- Anodized aluminum inset to replicate the style of the iPhone 5</p>\r\n\r\n<p><strong>Materials:</strong><br/>\r\n- Anodized aluminum<br/>\r\n- Plastic</p>\r\n\r\n<p><strong>Dimensions:</strong><br/>\r\n- 125mm H x 60mm W x 9mm D</p>",
+      "formatted"        : "<p>Echoing the form of the iPhone 5, Luminum is a minimalist case that dwells on the beauty of brushed aluminum. An anodized aluminum inset replicates the iPhone 5\u2019s iconic finish in a variety of colors, giving you more freedom to express yourself while staying true to the device\u2019s original form. With its ultra-slim profile, and the peace of mind that security brings, you may forget that Luminum is even there. </p>\n<p><strong>Features:</strong><br/>\n- Plastic outer shell for a slim profile<br/>\n- Anodized aluminum inset to replicate the style of the iPhone 5</p>\n<p><strong>Materials:</strong><br/>\n- Anodized aluminum<br/>\n- Plastic</p>\n<p><strong>Dimensions:</strong><br/>\n- 125mm H x 60mm W x 9mm D</p>"
+    },
+    "inventor" : {
+      "name"             : "Laura Doty",
+      "id"             : "47282",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/icon/Laura with Cargo.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/thumb/Laura with Cargo.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/one95/Laura with Cargo.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/mid/Laura with Cargo.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/five25/Laura with Cargo.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/six95/Laura with Cargo.jpg"
+      }
+    }
+  }
+}

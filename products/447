@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 447,
+    "ideationID"         : 298818,
+    "name"               : "Crossover",
+    "url"                : "/products/447-Crossover-iPhone-5-silicone-bands-case",
+    "tagline"            : "Stick It In",
+    "paidOut"            : "",
+    "price"              : {
+      "formatted"        : "$34.99",
+      "raw"              : 34.99
+    },
+    "influencerCount"      : 109,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2012-09-12 17:06:03 -0400",
+      "development"      : {
+        "started"        : "2012-09-13 21:45:53 -0400",
+        "ended"          : false
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 1451,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/266152/icon/CROSSOVER_2.jpg?1353516488",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/266152/thumb/CROSSOVER_2.jpg?1353516488",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/266152/one95/CROSSOVER_2.jpg?1353516488",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/266152/mid/CROSSOVER_2.jpg?1353516488",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/266152/large/CROSSOVER_2.jpg?1353516488",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/266152/five25/CROSSOVER_2.jpg?1353516488",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/266152/six95/CROSSOVER_2.jpg?1353516488"
+    },
+    "description"        : {
+      "summary"          : "Crossover is a two-piece case that secures gear to your iPhone 5 with silicone straps, merging functionality with minimalist design. . The two straps intersect to form a web of protection, protecting the back and all four corners by reinforcing key areas of impact.",
+      "raw"              : "<p>Crossover is a two-piece case that secures gear to your iPhone 5 with silicone straps, merging functionality with minimalist design. The two straps intersect to form a web of protection, protecting the back and all four corners by reinforcing key areas of impact. On top of this protective function, the straps also provides comfortable storage space for up to four credit cards, along with business cards, notes, and other sundries. </p>\r\n\r\n<p><strong>Features: </strong><br />\r\n\u00a0- Silicone straps protect both the back and bumpers with a minimalist profile<br />\r\n\u00a0- Straps can also be used to store items such as notes and credit cards</p>\r\n\r\n<p><strong>Materials: </strong><br />\r\n\u00a0- Nylon<br />\r\n\u00a0- Silicone</p>\r\n\r\n<p><strong>Dimensions:</strong><br />\r\n\u00a0- 12mm diagonal length</p>",
+      "formatted"        : "<p>Crossover is a two-piece case that secures gear to your iPhone 5 with silicone straps, merging functionality with minimalist design. The two straps intersect to form a web of protection, protecting the back and all four corners by reinforcing key areas of impact. On top of this protective function, the straps also provides comfortable storage space for up to four credit cards, along with business cards, notes, and other sundries. </p>\n<p><strong>Features: </strong><br />\n\u00a0- Silicone straps protect both the back and bumpers with a minimalist profile<br />\n\u00a0- Straps can also be used to store items such as notes and credit cards</p>\n<p><strong>Materials: </strong><br />\n\u00a0- Nylon<br />\n\u00a0- Silicone</p>\n<p><strong>Dimensions:</strong><br />\n\u00a0- 12mm diagonal length</p>"
+    },
+    "inventor" : {
+      "name"             : "Chet",
+      "id"             : "231687",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/255225/icon/Picture-2.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/255225/thumb/Picture-2.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/255225/one95/Picture-2.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/255225/mid/Picture-2.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/255225/five25/Picture-2.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/255225/six95/Picture-2.jpg"
+      }
+    }
+  }
+}

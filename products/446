@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 446,
+    "ideationID"         : 285871,
+    "name"               : "Pegit",
+    "url"                : "/products/446-Pegit-modular-pegboard-accessory-case",
+    "tagline"            : "Holy Case",
+    "paidOut"            : "",
+    "price"              : {
+      "formatted"        : "$39.99",
+      "raw"              : 39.99
+    },
+    "influencerCount"      : 546,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2012-08-27 10:06:49 -0400",
+      "development"      : {
+        "started"        : "2012-09-13 21:45:46 -0400",
+        "ended"          : "2012-11-21 16:35:08 -0500"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 797,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/265453/icon/PRODUCT_FEATURES_01.jpg?1353365787",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265453/thumb/PRODUCT_FEATURES_01.jpg?1353365787",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265453/one95/PRODUCT_FEATURES_01.jpg?1353365787",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/265453/mid/PRODUCT_FEATURES_01.jpg?1353365787",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265453/large/PRODUCT_FEATURES_01.jpg?1353365787",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265453/five25/PRODUCT_FEATURES_01.jpg?1353365787",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/265453/six95/PRODUCT_FEATURES_01.jpg?1353365787"
+    },
+    "description"        : {
+      "summary"          : "A custom iPhone case can show off your personal style, but only if it remains the same day in and day out. . Pegit is a modular pegboard case for the iPhone 5, with interchangeable color panels that can be swapped out to suit your mood.",
+      "raw"              : "<p>A custom iPhone case can show off your personal style, but only if it remains the same day in and day out. Pegit is a modular pegboard case for the iPhone 5, with interchangeable color panels that can be swapped out to suit your mood. Each case features a standard pegboard with six individual panels, allowing you to create your own color combinations by collection panels or trading them with your friends. Whether you\u2019re repping your nation with red, white and blue, or feeling beatnik with a little tan-on-black, there\u2019s not a day or event without a color combo to match.</p>\r\n\r\n<p><strong>Features:</strong><br/>\r\n- Pegboard hard case to support various color panels<br/>\r\n- Six interchangeable panels for a modular appearance</p>\r\n\r\n<p><strong>Materials:</strong><br/>\r\n- Plastic</p>\r\n\r\n<p><strong>Dimensions:</strong><br/>\r\n- 125mm H x 60mm W x 9mm D</p>",
+      "formatted"        : "<p>A custom iPhone case can show off your personal style, but only if it remains the same day in and day out. Pegit is a modular pegboard case for the iPhone 5, with interchangeable color panels that can be swapped out to suit your mood. Each case features a standard pegboard with six individual panels, allowing you to create your own color combinations by collection panels or trading them with your friends. Whether you\u2019re repping your nation with red, white and blue, or feeling beatnik with a little tan-on-black, there\u2019s not a day or event without a color combo to match.</p>\n<p><strong>Features:</strong><br/>\n- Pegboard hard case to support various color panels<br/>\n- Six interchangeable panels for a modular appearance</p>\n<p><strong>Materials:</strong><br/>\n- Plastic</p>\n<p><strong>Dimensions:</strong><br/>\n- 125mm H x 60mm W x 9mm D</p>"
+    },
+    "inventor" : {
+      "name"             : "Chan ho Lee",
+      "id"             : "228123",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/251742/icon/chanholee.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/251742/thumb/chanholee.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/251742/one95/chanholee.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/251742/mid/chanholee.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/251742/five25/chanholee.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/251742/six95/chanholee.jpg"
+      }
+    }
+  }
+}
