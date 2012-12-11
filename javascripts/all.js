@@ -31430,7 +31430,7 @@ $.widget( "ui.tooltip", {
     });
     app.iphone_cases.fetch();
     app.router = new Router();
-    return Backbone.history.start({root: "/quirky-tinystore/"});
+    return Backbone.history.start({pushState: true, root: "/quirky-tinystore/"});
   });
 
 }).call(this);
