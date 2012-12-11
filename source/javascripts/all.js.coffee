@@ -9,18 +9,15 @@
 $(document).ready ()->
   window.app = new Backbone.Marionette.Application()
   app.iphone_cases = new Collections.Products({},{list: 'iphone_cases'})
+  app.electronics = new Collections.Products({},{list: 'electronics'})
 
   # Application Regions
   app.addRegions(
     nav: '#nav'
-    content: '#content'
+    content: '#widget_content'
   )
 
-  # Prepare iphone_cases
-  app.iphone_cases_view = new Views.Products({collection: app.iphone_cases})
-  app.iphone_cases.fetch()
-
   # Router
-  app.router = new Router()
+  app.router = new Router(app)
 
   Backbone.history.start()

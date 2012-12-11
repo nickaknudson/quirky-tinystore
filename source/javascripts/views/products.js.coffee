@@ -9,19 +9,16 @@ Views.Products = Backbone.Marionette.CompositeView.extend(
   events:
     'click .scroll_left'  : 'scroll_left'
     'click .scroll_right' : 'scroll_right'
-
-  triggers: {
-    "featured .list_content_hold" : "item:show:featured"
-    "normal .list_content_hold"   : "item:show:normal"
-  }
+    'featured .list_content_hold' : 'show_featured'
+    'normal .list_content_hold'   : 'show_normal'
 
   onShow: ()->
-    @$('.scroll_left').hide()
-    @on('item:show:featured', @show_featured)
-    @on('item:show:normal', @show_normal)
+    @$('.scroll_left').show()
+    @$('.scroll_right').show()
+    @$('.scroll_left').hide() if @$('.list_content').css("marginLeft") == "0px"
+    @$('.scroll_right').hide() if parseInt(@$('.list_content').css("width")) >= @collection.length*200
 
   show_featured: ()->
-    console.log('featured')
     @marginLeft = @$('.list_content').css("marginLeft")
     @$('.list_content').animate({ "marginLeft": "0px" })
     @$('.list_content_hold').animate({height: '300px'})
@@ -29,13 +26,11 @@ Views.Products = Backbone.Marionette.CompositeView.extend(
     @$('.scroll_right').hide()
 
   show_normal: ()->
-    console.log('normal')
     @$('.list_content').animate({ "marginLeft": @marginLeft })
     @$('.list_content_hold').animate({height: '133px'}, ()=>
       @$('.scroll_left').show()
       @$('.scroll_right').show()
       @$('.scroll_left').hide() if @$('.list_content').css("marginLeft") == "0px"
-      console.log @collection.length*200 +"px", @$('.list_content').css("width")
       @$('.scroll_right').hide() if parseInt(@$('.list_content').css("width")) >= @collection.length*200
     )
 
@@ -46,7 +41,6 @@ Views.Products = Backbone.Marionette.CompositeView.extend(
     )
 
   scroll_right: ()->
-    console.log @collection.length*200 +"px"
     @$('.list_content').animate({ "marginLeft": "-=200px" }, "fast", ()=>
       @$('.scroll_left').show()
       @$('.scroll_right').hide() if parseInt(@$('.list_content').css("width")) >= @collection.length*200

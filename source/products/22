@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 22,
+    "ideationID"         : 11310,
+    "name"               : "Space Bar",
+    "url"                : "/products/22-The-Space-Bar-Desk-Organizer",
+    "tagline"            : "More Space, More Ports, Less Clutter",
+    "paidOut"            : "$55,840.39",
+    "price"              : {
+      "formatted"        : "$99.99",
+      "raw"              : 99.99
+    },
+    "influencerCount"      : 726,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2009-11-18 11:31:11 -0500",
+      "development"      : {
+        "started"        : "2009-11-30 16:59:41 -0500",
+        "ended"          : "2010-01-12 16:58:57 -0500"
+      },
+      "sales": {
+        "started"        : "2010-11-23 17:22:16 -0500",
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 15275,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/108229/icon/METAL_SPACE_BAR_SHOP_01.jpg?1325619828",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/108229/thumb/METAL_SPACE_BAR_SHOP_01.jpg?1325619828",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/108229/one95/METAL_SPACE_BAR_SHOP_01.jpg?1325619828",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/108229/mid/METAL_SPACE_BAR_SHOP_01.jpg?1325619828",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/108229/large/METAL_SPACE_BAR_SHOP_01.jpg?1325619828",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/108229/five25/METAL_SPACE_BAR_SHOP_01.jpg?1325619828",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/108229/six95/METAL_SPACE_BAR_SHOP_01.jpg?1325619828"
+    },
+    "description"        : {
+      "summary"          : "The Space Bar is a simple, elegantly-designed desk accessory that minimizes clutter while providing additional USB ports for your computer. . After a long day of work, simply slide your keyboard into the designated space below the shelf and store your office miscellany — keys, digital camera, etc.",
+      "raw"              : "The Space Bar is a simple, elegantly-designed desk accessory that minimizes clutter while providing additional USB ports for your computer. After a long day of work, simply slide your keyboard into the designated space below the shelf and store your office miscellany \u2014 keys, digital camera, etc. \u2014 up top.\r\n\r\nFeatures:\r\n- Constructed of brushed aluminum with white plastic accents.\r\n- Can stow a keyboard up to 18\" long by 1.5\" high and supports up to 30.5 pounds weight (the weight of a 27\" Apple iMac).\r\n- Six USB ports, four in the front and two in the back of the shelf. Also includes one mini-USB port and one AC adapter port.\r\n- Includes black AC adapter and USB cord.\r\n- Color: silver.\r\n\r\nThis product is powered using an external power source with a range of 110-240v.\r\n\r\n<object width=\"500\" height=\"314\"><param name=\"movie\" value=\"http://www.youtube.com/v/nOLvA5vXCg8?fs=1&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/nOLvA5vXCg8?fs=1&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"500\" height=\"314\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+      "formatted"        : "<p>The Space Bar is a simple, elegantly-designed desk accessory that minimizes clutter while providing additional <span class=\"caps\">USB</span> ports for your computer. After a long day of work, simply slide your keyboard into the designated space below the shelf and store your office miscellany \u2014 keys, digital camera, etc. \u2014 up top.</p>\n<p>Features:<br />\n- Constructed of brushed aluminum with white plastic accents.<br />\n- Can stow a keyboard up to 18&quot; long by 1.5&quot; high and supports up to 30.5 pounds weight (the weight of a 27&quot; Apple iMac).<br />\n- Six <span class=\"caps\">USB</span> ports, four in the front and two in the back of the shelf. Also includes one mini-<span class=\"caps\">USB</span> port and one AC adapter port.<br />\n- Includes black AC adapter and <span class=\"caps\">USB</span> cord.<br />\n- Color: silver.</p>\n<p>This product is powered using an external power source with a range of 110-240v.</p>\n<p><object width=\"500\" height=\"314\"><param name=\"movie\" value=\"http://www.youtube.com/v/nOLvA5vXCg8?fs=1&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/nOLvA5vXCg8?fs=1&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"500\" height=\"314\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object></p>"
+    },
+    "inventor" : {
+      "name"             : "Michael Cavada",
+      "id"             : "5816",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/5816/icon/IMG_0101_2.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/5816/thumb/IMG_0101_2.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/5816/one95/IMG_0101_2.JPG",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/5816/mid/IMG_0101_2.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/5816/five25/IMG_0101_2.JPG",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/5816/six95/IMG_0101_2.JPG"
+      }
+    }
+  }
+}

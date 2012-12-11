@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 505,
+    "ideationID"         : 24238,
+    "name"               : "Pivot Power Junior",
+    "url"                : "/products/505-Pivot-Power-Junior",
+    "tagline"            : "",
+    "paidOut"            : "",
+    "price"              : {
+      "formatted"        : "$19.99",
+      "raw"              : 19.99
+    },
+    "influencerCount"      : 853,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2010-04-27 12:05:01 -0400",
+      "development"      : {
+        "started"        : "2010-05-04 16:23:34 -0400",
+        "ended"          : "2010-06-25 15:31:49 -0400"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 132,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/269811/icon/pp_jr1.jpg?1354294890",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/269811/thumb/pp_jr1.jpg?1354294890",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/269811/one95/pp_jr1.jpg?1354294890",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/269811/mid/pp_jr1.jpg?1354294890",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/269811/large/pp_jr1.jpg?1354294890",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/269811/five25/pp_jr1.jpg?1354294890",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/269811/six95/pp_jr1.jpg?1354294890"
+    },
+    "description"        : {
+      "summary"          : "Are you having trouble deciding between the classic functionality of Quirky’s Pivot Power, and the unrivaled compactness of Pivot Power Mini? Well fret no longer, because Pivot Power Junior is here to bridge the gap. . This extension of the popular product line offers the same space-saving functionality as the original, but with only four adjustable nodes (instead of six) and two feet of cable (instead of six), making it better suited to those tight corners and awkward spaces.",
+      "raw"              : "Are you having trouble deciding between the classic functionality of Quirky\u2019s Pivot Power, and the unrivaled compactness of Pivot Power Mini? Well fret no longer, because Pivot Power Junior is here to bridge the gap. This extension of the popular product line offers the same space-saving functionality as the original, but with only four adjustable nodes (instead of six) and two feet of cable (instead of six), making it better suited to those tight corners and awkward spaces. \r\n\r\nFeatures:\r\n- Four adjustable power outlets, which pivot to accomodate adapters of any size\r\n- 2 ft. cable to cover the distance between the device and an outlet\r\n- ETL/INTERTEK Tested",
+      "formatted"        : "<p>Are you having trouble deciding between the classic functionality of Quirky\u2019s Pivot Power, and the unrivaled compactness of Pivot Power Mini? Well fret no longer, because Pivot Power Junior is here to bridge the gap. This extension of the popular product line offers the same space-saving functionality as the original, but with only four adjustable nodes (instead of six) and two feet of cable (instead of six), making it better suited to those tight corners and awkward spaces.</p>\n<p>Features:<br />\n- Four adjustable power outlets, which pivot to accomodate adapters of any size<br />\n- 2 ft. cable to cover the distance between the device and an outlet<br />\n- <span class=\"caps\">ETL</span>/<span class=\"caps\">INTERTEK</span> Tested</p>"
+    },
+    "inventor" : {
+      "name"             : "Jake Zien",
+      "id"             : "26599",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/26599/icon/hypercube.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/26599/thumb/hypercube.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/26599/one95/hypercube.png",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/26599/mid/hypercube.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/26599/five25/hypercube.png",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/26599/six95/hypercube.png"
+      }
+    }
+  }
+}

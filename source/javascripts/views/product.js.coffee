@@ -73,7 +73,6 @@ Views.Product = Backbone.Marionette.ItemView.extend(
     )
 
   make_feature: ()->
-    console.log('make_feature3')
     @$el.siblings().animate({width: 'hide'}, ()=>
       @$('.pic_footer_tagline').animate({height: 'show'}, ()=>
         @$el.parent().parent().trigger('featured')
@@ -101,7 +100,6 @@ Views.Product = Backbone.Marionette.ItemView.extend(
     )
 
   make_normal: ()->
-    console.log('make_normal')
     @$('.product_info').animate(
       width: 'hide'
     )
