@@ -31094,7 +31094,7 @@ $.widget( "ui.tooltip", {
 (function() {
 
   Models.Product = Backbone.RelationalModel.extend({
-    urlRoot: "/products",
+    urlRoot: "products",
     parse: function(res) {
       return res.product;
     }
@@ -31113,9 +31113,9 @@ $.widget( "ui.tooltip", {
     initialize: function(models, options) {
       return this.list = options.list;
     },
-    urlRoot: "/products",
+    urlRoot: "products",
     url: function() {
-      return "/products/" + this.list;
+      return "products/" + this.list;
     },
     parse: function(res) {
       return res.products;
@@ -31430,7 +31430,7 @@ $.widget( "ui.tooltip", {
     });
     app.iphone_cases.fetch();
     app.router = new Router();
-    return Backbone.history.start({pushState: true, root: "/quirky-tinystore/"});
+    return Backbone.history.start({root: "/quirky-tinystore/"});
   });
 
 }).call(this);
