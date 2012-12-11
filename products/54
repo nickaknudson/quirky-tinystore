@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 54,
+    "ideationID"         : 32345,
+    "name"               : "Unhampered",
+    "url"                : "/products/54-UnHampered-Collapsible-Laundry-Basket",
+    "tagline"            : "Laundry Just Got Easier",
+    "paidOut"            : "$5,820.85",
+    "price"              : {
+      "formatted"        : "$29.99",
+      "raw"              : 29.99
+    },
+    "influencerCount"      : 496,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2010-08-01 17:03:33 -0400",
+      "development"      : {
+        "started"        : "2010-08-06 16:23:17 -0400",
+        "ended"          : "2010-10-04 17:40:20 -0400"
+      },
+      "sales": {
+        "started"        : "2010-11-02 18:35:32 -0400",
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 27929,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/178542/icon/PRODUCT_FEATURES_01.jpg?1337983867",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/178542/thumb/PRODUCT_FEATURES_01.jpg?1337983867",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/178542/one95/PRODUCT_FEATURES_01.jpg?1337983867",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/178542/mid/PRODUCT_FEATURES_01.jpg?1337983867",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/178542/large/PRODUCT_FEATURES_01.jpg?1337983867",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/178542/five25/PRODUCT_FEATURES_01.jpg?1337983867",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/178542/six95/PRODUCT_FEATURES_01.jpg?1337983867"
+    },
+    "description"        : {
+      "summary"          : "Don't let your laundry basket take up more space than necessary. . Unhampered provides all the function of your average laundry basket -- and then some! – and can fold flat when not in use.",
+      "raw"              : "Don't let your laundry basket take up more space than necessary. Unhampered provides all the function of your average laundry basket -- and then some! \u2013 <i>and</i> can fold flat when not in use.\r\n\r\nWhen folded, Unhampered can be easily stored between your washer and drier, under your sink, or any other place where you have an extra inch or two of room to spare. Unfolded, you've got a sturdy deluxe basket with multiple handles and storage compartments.  It includes a divider panel to separate your colors, intimates, or whatever really.  Once you're done with your wash, just fold it up and put it away for next time.\r\n\r\nUnhampered goes above and beyond your typical laundry basket:\r\n\r\n- Folds flat to approximately 2\" wide, allowing you to store it nearly anywhere!\r\n\r\n- Has two sets of handles, for an easy grip in any situation.\r\n\r\n- The side mesh pocket holds all your soaps and softeners, and keeps them within easy reach.\r\n\r\n- Divider panel that swings out and secures in place with velcro to separate your laundry.\r\n\r\nDimensions:\r\n\r\nUnfolded: 22\" long x 15 3/4\" wide x 11 1/4\" tall\r\nFolded: 22\" long x 2\" wide x 11 1/4\" tall",
+      "formatted"        : "<p>Don&#8217;t let your laundry basket take up more space than necessary. Unhampered provides all the function of your average laundry basket &#8212; and then some! \u2013 <i>and</i> can fold flat when not in use.</p>\n<p>When folded, Unhampered can be easily stored between your washer and drier, under your sink, or any other place where you have an extra inch or two of room to spare. Unfolded, you&#8217;ve got a sturdy deluxe basket with multiple handles and storage compartments.  It includes a divider panel to separate your colors, intimates, or whatever really.  Once you&#8217;re done with your wash, just fold it up and put it away for next time.</p>\n<p>Unhampered goes above and beyond your typical laundry basket:</p>\n<p>- Folds flat to approximately 2&quot; wide, allowing you to store it nearly anywhere!</p>\n<p>- Has two sets of handles, for an easy grip in any situation.</p>\n<p>- The side mesh pocket holds all your soaps and softeners, and keeps them within easy reach.</p>\n<p>- Divider panel that swings out and secures in place with velcro to separate your laundry.</p>\n<p>Dimensions:</p>\n<p>Unfolded: 22&quot; long x 15 3/4&quot; wide x 11 1/4&quot; tall<br />\nFolded: 22&quot; long x 2&quot; wide x 11 1/4&quot; tall</p>"
+    },
+    "inventor" : {
+      "name"             : "Barbara Miles",
+      "id"             : "33015",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/33015/icon/babs.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/33015/thumb/babs.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/33015/one95/babs.png",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/33015/mid/babs.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/33015/five25/babs.png",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/33015/six95/babs.png"
+      }
+    }
+  }
+}

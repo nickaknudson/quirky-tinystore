@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 72,
+    "ideationID"         : 43901,
+    "name"               : "Thor",
+    "url"                : "/products/72-Thor-Ice-Scraper",
+    "tagline"            : "Attack The Ice",
+    "paidOut"            : "$21,593.52",
+    "price"              : {
+      "formatted"        : "$20.99",
+      "raw"              : 20.99
+    },
+    "influencerCount"      : 927,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2010-11-07 21:54:12 -0500",
+      "development"      : {
+        "started"        : "2010-11-19 18:56:57 -0500",
+        "ended"          : "2011-01-11 18:13:32 -0500"
+      },
+      "sales": {
+        "started"        : "2011-09-01 18:37:29 -0400",
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 52523,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/108387/icon/THOR_FEATURES_01.jpg?1325631879",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/108387/thumb/THOR_FEATURES_01.jpg?1325631879",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/108387/one95/THOR_FEATURES_01.jpg?1325631879",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/108387/mid/THOR_FEATURES_01.jpg?1325631879",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/108387/large/THOR_FEATURES_01.jpg?1325631879",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/108387/five25/THOR_FEATURES_01.jpg?1325631879",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/108387/six95/THOR_FEATURES_01.jpg?1325631879"
+    },
+    "description"        : {
+      "summary"          : "Thor is a collapsible double-blade ice scraper, designed to let you use both hands for more leverage when scraping off your icy windshield.",
+      "raw"              : "Thor is a collapsible double-blade ice scraper, designed to let you use both hands for more leverage when scraping off your icy windshield.\r\n\r\nFeatures:\r\n- Double-blade design so you can scrape with both forward and backward motions\r\n- Front handle lets you scrape with less strain and more force\r\n- Extendable, telescoping arm for better reach\r\n- Fits comfortably under your car seat\r\n- Front plow keeps the snow off your hands and gloves\r\n- Rubber-coated front and rear handles for solid grip\r\n\r\nMaterials: \r\n- Plastic head, stainless steel handle, rubber grips\r\n\r\nDimensions: \r\n- Extends from 25\" to 36\"\r\n\r\n<i>Patent Pending</i>",
+      "formatted"        : "<p>Thor is a collapsible double-blade ice scraper, designed to let you use both hands for more leverage when scraping off your icy windshield.</p>\n<p>Features:<br />\n- Double-blade design so you can scrape with both forward and backward motions<br />\n- Front handle lets you scrape with less strain and more force<br />\n- Extendable, telescoping arm for better reach<br />\n- Fits comfortably under your car seat<br />\n- Front plow keeps the snow off your hands and gloves<br />\n- Rubber-coated front and rear handles for solid grip</p>\n<p>Materials: <br />\n- Plastic head, stainless steel handle, rubber grips</p>\n<p>Dimensions: <br />\n- Extends from 25&quot; to 36&quot;</p>\n<p><i>Patent Pending</i></p>"
+    },
+    "inventor" : {
+      "name"             : "Jim  Johnstone",
+      "id"             : "47673",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/47612/icon/Jim 5-04.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/47612/thumb/Jim 5-04.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/47612/one95/Jim 5-04.JPG",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/47612/mid/Jim 5-04.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/47612/five25/Jim 5-04.JPG",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/47612/six95/Jim 5-04.JPG"
+      }
+    }
+  }
+}

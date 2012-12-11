@@ -88,7 +88,6 @@
     },
     make_feature: function() {
       var _this = this;
-      console.log('make_feature3');
       return this.$el.siblings().animate({
         width: 'hide'
       }, function() {
@@ -121,7 +120,6 @@
     },
     make_normal: function() {
       var _this = this;
-      console.log('make_normal');
       this.$('.product_info').animate({
         width: 'hide'
       });

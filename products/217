@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 217,
+    "ideationID"         : 137230,
+    "name"               : "Cargo",
+    "url"                : "/products/217-Cargo-a-customizable-shower-caddy",
+    "tagline"            : "Bundle Your Bottles",
+    "paidOut"            : "$2,598.69",
+    "price"              : {
+      "formatted"        : "$11.99",
+      "raw"              : 11.99
+    },
+    "influencerCount"      : 1106,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2011-10-31 00:31:00 -0400",
+      "development"      : {
+        "started"        : false,
+        "ended"          : "2012-02-02 11:59:44 -0500"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 44856,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/196133/icon/PRODUCT_FEATURES_06.jpg?1341001466",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/196133/thumb/PRODUCT_FEATURES_06.jpg?1341001466",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/196133/one95/PRODUCT_FEATURES_06.jpg?1341001466",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/196133/mid/PRODUCT_FEATURES_06.jpg?1341001466",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/196133/large/PRODUCT_FEATURES_06.jpg?1341001466",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/196133/five25/PRODUCT_FEATURES_06.jpg?1341001466",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/196133/six95/PRODUCT_FEATURES_06.jpg?1341001466"
+    },
+    "description"        : {
+      "summary"          : "Cargo is a simple way to organize and transport all your shower products. . This caddy comes with five flat bungee cords that separate your items and keep large bottles from spilling out.",
+      "raw"              : "<p>Cargo is a simple way to organize and transport all your shower products. This caddy comes with five flat bungee cords that separate your items and keep large bottles from spilling out. The perforated structure allows you to attach cords in almost any configuration - even on the outside. Couples can co-op the caddy and  easily split the shampoo into His and Hers sections. Dorm occupants needn\u2019t schlep their shower shoes; just hook a cord around them and they\u2019re along for the ride. The increased airflow dries Cargo quickly and keeps your items clean. Keep calm and caddy on!</p>\r\n\r\n<p><strong>Features:</strong><br />\r\n- Deep basket and tall handle can accommodate large items<br />\r\n- Organize any way you like with the five included bungee cords<br />\r\n- Perforated design provides constant airflow<p/>\r\n\r\n<p><strong>Materials:</strong><br />\r\n- Polypropylene plastic</p>\r\n\r\n<p><strong>Dimensions:</strong><br />\r\n268mm W x 186mm D x 147mm H</p>\r\n\r\n<p>Available in turquoise and gray</p>",
+      "formatted"        : "<p>Cargo is a simple way to organize and transport all your shower products. This caddy comes with five flat bungee cords that separate your items and keep large bottles from spilling out. The perforated structure allows you to attach cords in almost any configuration &#8211; even on the outside. Couples can co-op the caddy and  easily split the shampoo into His and Hers sections. Dorm occupants needn\u2019t schlep their shower shoes; just hook a cord around them and they\u2019re along for the ride. The increased airflow dries Cargo quickly and keeps your items clean. Keep calm and caddy on!</p>\n<p><strong>Features:</strong><br />\n- Deep basket and tall handle can accommodate large items<br />\n- Organize any way you like with the five included bungee cords<br />\n- Perforated design provides constant airflow<p/><br />\n<br />\n<p><strong>Materials:</strong><br />\n- Polypropylene plastic</p>\n<p><strong>Dimensions:</strong><br />\n268mm W x 186mm D x 147mm H</p>\n<p>Available in turquoise and gray</p>"
+    },
+    "inventor" : {
+      "name"             : "Laura Doty",
+      "id"             : "47282",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/icon/Laura with Cargo.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/thumb/Laura with Cargo.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/one95/Laura with Cargo.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/mid/Laura with Cargo.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/five25/Laura with Cargo.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/47238/six95/Laura with Cargo.jpg"
+      }
+    }
+  }
+}

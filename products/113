@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 113,
+    "ideationID"         : 57136,
+    "name"               : "Converge",
+    "url"                : "/products/113-Converge-Docking-Station",
+    "tagline"            : "Rest and Recharge",
+    "paidOut"            : "$66,242.92",
+    "price"              : {
+      "formatted"        : "$39.99",
+      "raw"              : 39.99
+    },
+    "influencerCount"      : 643,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2011-03-11 19:10:02 -0500",
+      "development"      : {
+        "started"        : "2011-03-25 19:52:17 -0400",
+        "ended"          : "2011-05-12 12:48:59 -0400"
+      },
+      "sales": {
+        "started"        : "2011-09-26 17:10:13 -0400",
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 42043,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/100251/icon/CONVERGE_FEATURES_01.jpg?1324661803",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/100251/thumb/CONVERGE_FEATURES_01.jpg?1324661803",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/100251/one95/CONVERGE_FEATURES_01.jpg?1324661803",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/100251/mid/CONVERGE_FEATURES_01.jpg?1324661803",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/100251/large/CONVERGE_FEATURES_01.jpg?1324661803",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/100251/five25/CONVERGE_FEATURES_01.jpg?1324661803",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/100251/six95/CONVERGE_FEATURES_01.jpg?1324661803"
+    },
+    "description"        : {
+      "summary"          : "Show your gadgets some love! Converge is a docking station that shows off your electronics while they charge. . Wires slip in easily, stay in place with the help of soft TPE grips, and stay out of sight.",
+      "raw"              : "Show your gadgets some love! Converge is a docking station that shows off your electronics while they charge. Wires slip in easily, stay in place with the help of soft TPE grips, and stay out of sight.\r\n\r\nFeatures:\r\n-\"Stash\" cable management makes it easy to stow wires\r\n-4 USB outlets\r\n-Curved to allow your electronics to nestle in place while charging\r\n-Powered with external power source with a range of 110-240v\r\n-Designed to manage charging cables for both bottom-connected (iPad, iPhone, etc.) and side-connected (cameras, Blackberries, etc.) accessories. \r\n\r\nDimensions:\r\n-310mm wide x 100mm tall x 130mm deep\r\n\r\n<i>Charges most USB devices, excluding Blackberry Torch, Curve and Barnes & Noble Nook devices.</i>",
+      "formatted"        : "<p>Show your gadgets some love! Converge is a docking station that shows off your electronics while they charge. Wires slip in easily, stay in place with the help of soft <span class=\"caps\">TPE</span> grips, and stay out of sight.</p>\n<p>Features:<br />\n-&#8220;Stash&#8221; cable management makes it easy to stow wires<br />\n-4 <span class=\"caps\">USB</span> outlets<br />\n-Curved to allow your electronics to nestle in place while charging<br />\n-Powered with external power source with a range of 110-240v<br />\n-Designed to manage charging cables for both bottom-connected (iPad, iPhone, etc.) and side-connected (cameras, Blackberries, etc.) accessories.</p>\n<p>Dimensions:<br />\n-310mm wide x 100mm tall x 130mm deep</p>\n<p><i>Charges most <span class=\"caps\">USB</span> devices, excluding Blackberry Torch, Curve and Barnes &amp; Noble Nook devices.</i></p>"
+    },
+    "inventor" : {
+      "name"             : "Jin Chai",
+      "id"             : "58887",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/58506/icon/DK_quirky.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/58506/thumb/DK_quirky.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/58506/one95/DK_quirky.JPG",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/58506/mid/DK_quirky.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/58506/five25/DK_quirky.JPG",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/58506/six95/DK_quirky.JPG"
+      }
+    }
+  }
+}

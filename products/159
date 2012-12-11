@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 159,
+    "ideationID"         : 79139,
+    "name"               : "Totem",
+    "url"                : "/products/159-Totem-Stackable-Cups",
+    "tagline"            : "Quick Dry, Stack High",
+    "paidOut"            : "$6,397.43",
+    "price"              : {
+      "formatted"        : "$3.99",
+      "raw"              : 3.99
+    },
+    "influencerCount"      : 917,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2011-07-17 08:05:13 -0400",
+      "development"      : {
+        "started"        : "2011-08-01 11:57:56 -0400",
+        "ended"          : "2011-09-15 12:00:33 -0400"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 26652,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/136456/icon/PRODUCT_FEATURES_01.jpg?1330473410",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/136456/thumb/PRODUCT_FEATURES_01.jpg?1330473410",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/136456/one95/PRODUCT_FEATURES_01.jpg?1330473410",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/136456/mid/PRODUCT_FEATURES_01.jpg?1330473410",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/136456/large/PRODUCT_FEATURES_01.jpg?1330473410",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/136456/five25/PRODUCT_FEATURES_01.jpg?1330473410",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/136456/six95/PRODUCT_FEATURES_01.jpg?1330473410"
+    },
+    "description"        : {
+      "summary"          : "Totem is a stackable cup for use in your bathroom or kitchen. . Each cup has three bumps around the top circumference to keep them slightly separated when stacked so air can flow around the entire surface and dry them faster than normal stacked cups..",
+      "raw"              : "<p>Totem is a stackable cup for use in your bathroom or kitchen. Each cup has three bumps around the top circumference to keep them slightly separated when stacked so air can flow around the entire surface and dry them faster than normal stacked cups.</p>\r\n<p>Totem is great in any setting.  Useful in your everyday dining setting, to special occasions and outdoor festivities.\r\n\r\n<p><strong>Features:</strong></p>\r\n\r\n<p>- Stackable<br>\r\n- Easy to dry<br>\r\n- Contoured brim allows for bottom cup to air dry<br>\r\n- BPA-free SAN plastic<br>\r\n- Food safe<br>\r\n- Dishwasher safe<br>\r\n- Each cup sold separately</p>\r\n\r\n<p><strong>Dimensions:</strong></p>\r\n\r\n<p>4 3/4\" tall<br>\r\n3 1/4\" diameter<br>\r\n15oz. volume</p>\r\n\r\n<p><strong>Each cup sold separately</strong></p>\r\n\r\n",
+      "formatted"        : "<p>Totem is a stackable cup for use in your bathroom or kitchen. Each cup has three bumps around the top circumference to keep them slightly separated when stacked so air can flow around the entire surface and dry them faster than normal stacked cups.</p>\n<p>Totem is great in any setting.  Useful in your everyday dining setting, to special occasions and outdoor festivities.<br />\n<br />\n<p><strong>Features:</strong></p>\n<p>- Stackable<br>\n- Easy to dry<br>\n- Contoured brim allows for bottom cup to air dry<br>\n- <span class=\"caps\">BPA</span>-free <span class=\"caps\">SAN</span> plastic<br>\n- Food safe<br>\n- Dishwasher safe<br>\n- Each cup sold separately</p>\n<p><strong>Dimensions:</strong></p>\n<p>4 3/4&quot; tall<br>\n3 1/4&quot; diameter<br>\n15oz. volume</p>\n<p><strong>Each cup sold separately</strong></p>"
+    },
+    "inventor" : {
+      "name"             : "DESIGN-JAY",
+      "id"             : "38891",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/38884/icon/DESIGN-JAY.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/38884/thumb/DESIGN-JAY.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/38884/one95/DESIGN-JAY.jpeg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/38884/mid/DESIGN-JAY.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/38884/five25/DESIGN-JAY.jpeg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/38884/six95/DESIGN-JAY.jpeg"
+      }
+    }
+  }
+}

@@ -93,7 +93,6 @@
     },
     make_feature: function() {
       var _this = this;
-      console.log('make_feature3');
       return this.$el.siblings().animate({
         width: 'hide'
       }, function() {
@@ -126,7 +125,6 @@
     },
     make_normal: function() {
       var _this = this;
-      console.log('make_normal');
       this.$('.product_info').animate({
         width: 'hide'
       });
@@ -164,19 +162,20 @@
     itemViewContainer: '.list_content',
     events: {
       'click .scroll_left': 'scroll_left',
-      'click .scroll_right': 'scroll_right'
+      'click .scroll_right': 'scroll_right',
+      'featured .list_content_hold': 'show_featured',
+      'normal .list_content_hold': 'show_normal'
     },
-    triggers: {
-      "featured .list_content_hold": "item:show:featured",
-      "normal .list_content_hold": "item:show:normal"
-    },
-    onShow: function() {
-      this.$('.scroll_left').hide();
-      this.on('item:show:featured', this.show_featured);
-      return this.on('item:show:normal', this.show_normal);
+    onRender: function() {
+      this.$('.scroll_right').show();
+      if (this.$('.list_content').css("marginLeft") === "0px") {
+        this.$('.scroll_left').hide();
+      }
+      if (parseInt(this.$('.list_content').css("width")) >= this.collection.length * 200) {
+        return this.$('.scroll_right').hide();
+      }
     },
     show_featured: function() {
-      console.log('featured');
       this.marginLeft = this.$('.list_content').css("marginLeft");
       this.$('.list_content').animate({
         "marginLeft": "0px"
@@ -189,7 +188,6 @@
     },
     show_normal: function() {
       var _this = this;
-      console.log('normal');
       this.$('.list_content').animate({
         "marginLeft": this.marginLeft
       });
@@ -201,7 +199,6 @@
         if (_this.$('.list_content').css("marginLeft") === "0px") {
           _this.$('.scroll_left').hide();
         }
-        console.log(_this.collection.length * 200 + "px", _this.$('.list_content').css("width"));
         if (parseInt(_this.$('.list_content').css("width")) >= _this.collection.length * 200) {
           return _this.$('.scroll_right').hide();
         }
@@ -220,7 +217,6 @@
     },
     scroll_right: function() {
       var _this = this;
-      console.log(this.collection.length * 200 + "px");
       return this.$('.list_content').animate({
         "marginLeft": "-=200px"
       }, "fast", function() {

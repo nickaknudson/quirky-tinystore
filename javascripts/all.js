@@ -31161,7 +31161,7 @@ $.widget( "ui.tooltip", {
     return (function() {
       var $o;
       $o = [];
-      $o.push("<div class='left nav'>\n  <div class='nav_item_home'>\n    <a href='#home'>\n      <div class='icon_home'></div>\n    </a>\n  </div>\n  <div class='nav_item'>\n    <a href='#iphone_cases'>iPhone Cases</a>\n  </div>\n  <div class='nav_item'>\n    <a href='#electronics'>Electronics</a>\n  </div>\n  <div class='nav_item'>\n    <a href='#kitchen'>Kitchen</a>\n  </div>\n  <div class='nav_item'>\n    <a href='#organization'>Organization</a>\n  </div>\n  <div class='nav_item'>\n    <a href='#gadgets'>Gadgets</a>\n  </div>\n  <div class='nav_item'>\n    <a href='#housewares'>Housewares</a>\n  </div>\n</div>\n<div class='scroll_content'>\n  <div class='scroll_left_hold'>\n    <div class='scroll_left'>\n      <div class='scroll_icon'>\n        <i class='icon-chevron-left'></i>\n      </div>\n    </div>\n  </div>\n  <div class='left list_content_hold'>\n    <div class='list_content'></div>\n  </div>\n  <div class='scroll_right_hold'>\n    <div class='scroll_right'>\n      <div class='scroll_icon'>\n        <i class='icon-chevron-right'></i>\n      </div>\n    </div>\n  </div>\n</div>\n<div class='left list_footer'>\n  <div class='icon_quirky right'></div>\n  <div class='power'>\n    Powered by\n  </div>\n</div>");
+      $o.push("<div class='scroll_content'>\n  <div class='scroll_left_hold'>\n    <div class='scroll_left'>\n      <div class='scroll_icon'>\n        <i class='icon-chevron-left'></i>\n      </div>\n    </div>\n  </div>\n  <div class='left list_content_hold'>\n    <div class='list_content'></div>\n  </div>\n  <div class='scroll_right_hold'>\n    <div class='scroll_right'>\n      <div class='scroll_icon'>\n        <i class='icon-chevron-right'></i>\n      </div>\n    </div>\n  </div>\n</div>");
       return $o.join("\n").replace(/\s(\w+)='true'/mg, ' $1').replace(/\s(\w+)='false'/mg, '');
     }).call(window.HAML.context(context));
   };
@@ -31262,7 +31262,6 @@ $.widget( "ui.tooltip", {
     },
     make_feature: function() {
       var _this = this;
-      console.log('make_feature3');
       return this.$el.siblings().animate({
         width: 'hide'
       }, function() {
@@ -31295,7 +31294,6 @@ $.widget( "ui.tooltip", {
     },
     make_normal: function() {
       var _this = this;
-      console.log('make_normal');
       this.$('.product_info').animate({
         width: 'hide'
       });
@@ -31333,19 +31331,20 @@ $.widget( "ui.tooltip", {
     itemViewContainer: '.list_content',
     events: {
       'click .scroll_left': 'scroll_left',
-      'click .scroll_right': 'scroll_right'
+      'click .scroll_right': 'scroll_right',
+      'featured .list_content_hold': 'show_featured',
+      'normal .list_content_hold': 'show_normal'
     },
-    triggers: {
-      "featured .list_content_hold": "item:show:featured",
-      "normal .list_content_hold": "item:show:normal"
-    },
-    onShow: function() {
-      this.$('.scroll_left').hide();
-      this.on('item:show:featured', this.show_featured);
-      return this.on('item:show:normal', this.show_normal);
+    onRender: function() {
+      this.$('.scroll_right').show();
+      if (this.$('.list_content').css("marginLeft") === "0px") {
+        this.$('.scroll_left').hide();
+      }
+      if (parseInt(this.$('.list_content').css("width")) >= this.collection.length * 200) {
+        return this.$('.scroll_right').hide();
+      }
     },
     show_featured: function() {
-      console.log('featured');
       this.marginLeft = this.$('.list_content').css("marginLeft");
       this.$('.list_content').animate({
         "marginLeft": "0px"
@@ -31358,7 +31357,6 @@ $.widget( "ui.tooltip", {
     },
     show_normal: function() {
       var _this = this;
-      console.log('normal');
       this.$('.list_content').animate({
         "marginLeft": this.marginLeft
       });
@@ -31370,7 +31368,6 @@ $.widget( "ui.tooltip", {
         if (_this.$('.list_content').css("marginLeft") === "0px") {
           _this.$('.scroll_left').hide();
         }
-        console.log(_this.collection.length * 200 + "px", _this.$('.list_content').css("width"));
         if (parseInt(_this.$('.list_content').css("width")) >= _this.collection.length * 200) {
           return _this.$('.scroll_right').hide();
         }
@@ -31389,7 +31386,6 @@ $.widget( "ui.tooltip", {
     },
     scroll_right: function() {
       var _this = this;
-      console.log(this.collection.length * 200 + "px");
       return this.$('.list_content').animate({
         "marginLeft": "-=200px"
       }, "fast", function() {
@@ -31406,10 +31402,70 @@ $.widget( "ui.tooltip", {
 
   window.Router = Backbone.Router.extend({
     routes: {
-      '': 'home'
+      '': 'home',
+      'home': 'home',
+      'iphone_cases': 'iphone_cases',
+      'electronics': 'electronics',
+      'kitchen': 'kitchen',
+      'organization': 'organization',
+      'gadgets': 'gadgets',
+      'housewares': 'housewares'
     },
     home: function() {
-      return app.content.show(app.iphone_cases_view);
+      var view;
+      view = new Views.Products({
+        collection: app.iphone_cases
+      });
+      app.content.show(view);
+      return app.iphone_cases.fetch();
+    },
+    iphone_cases: function() {
+      var view;
+      view = new Views.Products({
+        collection: app.iphone_cases
+      });
+      app.content.show(view);
+      return app.iphone_cases.fetch();
+    },
+    electronics: function() {
+      var view;
+      view = new Views.Products({
+        collection: app.electronics
+      });
+      app.content.show(view);
+      return app.electronics.fetch();
+    },
+    kitchen: function() {
+      var view;
+      view = new Views.Products({
+        collection: app.kitchen
+      });
+      app.content.show(view);
+      return app.kitchen.fetch();
+    },
+    organization: function() {
+      var view;
+      view = new Views.Products({
+        collection: app.organization
+      });
+      app.content.show(view);
+      return app.organization.fetch();
+    },
+    gadgets: function() {
+      var view;
+      view = new Views.Products({
+        collection: app.gadgets
+      });
+      app.content.show(view);
+      return app.gadgets.fetch();
+    },
+    housewares: function() {
+      var view;
+      view = new Views.Products({
+        collection: app.housewares
+      });
+      app.content.show(view);
+      return app.housewares.fetch();
     }
   });
 
@@ -31418,19 +31474,30 @@ $.widget( "ui.tooltip", {
 
   $(document).ready(function() {
     window.app = new Backbone.Marionette.Application();
-    app.iphone_cases = new Collections.Products({}, {
+    app.iphone_cases = new Collections.Products(null, {
       list: 'iphone_cases'
+    });
+    app.electronics = new Collections.Products(null, {
+      list: 'electronics'
+    });
+    app.kitchen = new Collections.Products(null, {
+      list: 'kitchen'
+    });
+    app.organization = new Collections.Products(null, {
+      list: 'organization'
+    });
+    app.gadgets = new Collections.Products(null, {
+      list: 'gadgets'
+    });
+    app.housewares = new Collections.Products(null, {
+      list: 'housewares'
     });
     app.addRegions({
       nav: '#nav',
-      content: '#content'
+      content: '#widget_content'
     });
-    app.iphone_cases_view = new Views.Products({
-      collection: app.iphone_cases
-    });
-    app.iphone_cases.fetch();
-    app.router = new Router();
-    return Backbone.history.start({root: "/quirky-tinystore/"});
+    app.router = new Router(app);
+    return Backbone.history.start();
   });
 
 }).call(this);

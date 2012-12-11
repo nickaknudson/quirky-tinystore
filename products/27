@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 27,
+    "ideationID"         : 13699,
+    "name"               : "Pen Zen",
+    "url"                : "/products/27-Pen-Zen",
+    "tagline"            : "The Art of Organization ",
+    "paidOut"            : "$5,522.62",
+    "price"              : {
+      "formatted"        : "$19.99",
+      "raw"              : 19.99
+    },
+    "influencerCount"      : 643,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2009-12-28 15:47:45 -0500",
+      "development"      : {
+        "started"        : "2010-01-06 03:55:09 -0500",
+        "ended"          : "2010-02-10 08:29:43 -0500"
+      },
+      "sales": {
+        "started"        : "2011-06-17 08:45:50 -0400",
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 4563,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/245098/icon/PRODUCT_FEATURES_1.jpg?1349366881",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/245098/thumb/PRODUCT_FEATURES_1.jpg?1349366881",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/245098/one95/PRODUCT_FEATURES_1.jpg?1349366881",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/245098/mid/PRODUCT_FEATURES_1.jpg?1349366881",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/245098/large/PRODUCT_FEATURES_1.jpg?1349366881",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/245098/five25/PRODUCT_FEATURES_1.jpg?1349366881",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/245098/six95/PRODUCT_FEATURES_1.jpg?1349366881"
+    },
+    "description"        : {
+      "summary"          : "Pen Zen is an elegantly designed storage unit for pens, pencils, highlighters, and other office supplies. . Pen Zen’s sleek form and functional supply holders make it easy to master the art of organization.",
+      "raw"              : "Pen Zen is an elegantly designed storage unit for pens, pencils, highlighters, and other office supplies. Pen Zen\u2019s sleek form and functional supply holders make it easy to master the art of organization.\r\n\r\nPosition your Pen Zen horizontally with the items extending out of the top, or stand it upright with the items extending out of the ends. It's your call -- choose the arrangement that suits you best!\r\n\r\nHidden magnets below the bamboo surface hold paper clips and other small magnetic items.\r\n\r\n<b>Features:</b>\r\n\r\n- Rubber extrusions that act as magic fingers to hold your items in place. \r\n\r\n- Bamboo exterior makes for an appealing addition to your desktop decor.\r\n\r\n- Hidden magnets for extra storage of small magnetic items.\r\n\r\nWith Pen Zen, your desk clutter can finally find inner peace.\r\n\r\n<b>Dimensions: </b>\r\n7.25in x 2.5in x 2.0in.",
+      "formatted"        : "<p>Pen Zen is an elegantly designed storage unit for pens, pencils, highlighters, and other office supplies. Pen Zen\u2019s sleek form and functional supply holders make it easy to master the art of organization.</p>\n<p>Position your Pen Zen horizontally with the items extending out of the top, or stand it upright with the items extending out of the ends. It&#8217;s your call &#8212; choose the arrangement that suits you best!</p>\n<p>Hidden magnets below the bamboo surface hold paper clips and other small magnetic items.</p>\n<p><b>Features:</b></p>\n<p>- Rubber extrusions that act as magic fingers to hold your items in place.</p>\n<p>- Bamboo exterior makes for an appealing addition to your desktop decor.</p>\n<p>- Hidden magnets for extra storage of small magnetic items.</p>\n<p>With Pen Zen, your desk clutter can finally find inner peace.</p>\n<p><b>Dimensions: </b><br />\n7.25in x 2.5in x 2.0in.</p>"
+    },
+    "inventor" : {
+      "name"             : "Edwin van de Bospoort",
+      "id"             : "12883",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/12882/icon/Edwin vd Bospoort.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/12882/thumb/Edwin vd Bospoort.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/12882/one95/Edwin vd Bospoort.png",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/12882/mid/Edwin vd Bospoort.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/12882/five25/Edwin vd Bospoort.png",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/12882/six95/Edwin vd Bospoort.png"
+      }
+    }
+  }
+}

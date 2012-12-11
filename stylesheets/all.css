@@ -42,23 +42,24 @@ a {
 
 /* line 39, all.css.scss */
 .scroll_left {
+  display: hidden;
   float: left;
   height: 100%;
   width: 100%;
   background-color: #333;
   opacity: 0.7; }
 
-/* line 46, all.css.scss */
+/* line 47, all.css.scss */
 .scroll_icon {
   margin-top: 56.5px; }
 
-/* line 49, all.css.scss */
+/* line 50, all.css.scss */
 .scroll_right_hold {
   float: right;
   height: 133px;
   width: 14px; }
 
-/* line 54, all.css.scss */
+/* line 55, all.css.scss */
 .scroll_right {
   float: right;
   height: 100%;
@@ -66,7 +67,7 @@ a {
   background-color: #333;
   opacity: 0.7; }
 
-/* line 61, all.css.scss */
+/* line 62, all.css.scss */
 .nav {
   padding: 6px;
   margin-bottom: 6px;
@@ -82,14 +83,14 @@ a {
   font-size: 14px;
   -webkit-font-smoothing: antialiased; }
 
-/* line 76, all.css.scss */
+/* line 77, all.css.scss */
 .nav_item_home {
   margin-top: 2px;
   float: left;
   margin-left: 20px;
   margin-right: 20px; }
 
-/* line 82, all.css.scss */
+/* line 83, all.css.scss */
 .nav_item {
   float: left;
   margin-left: 20px;
@@ -100,61 +101,61 @@ a {
   font-weight: bold;
   color: #EEE; }
 
-/* line 92, all.css.scss */
+/* line 93, all.css.scss */
 .icon_home {
   width: 23px;
   height: 21px;
   background: url(../images/home_icon.png) 0 0; }
 
-/* line 97, all.css.scss */
+/* line 98, all.css.scss */
 .icon_quirky {
   width: 131px;
   height: 36px;
   background: url(../images/logo-medium-white.png) 0 0; }
 
-/* line 102, all.css.scss */
+/* line 103, all.css.scss */
 .list_content_hold {
   width: 800px;
   height: 133px;
   overflow: hidden; }
 
-/* line 109, all.css.scss */
+/* line 110, all.css.scss */
 .pic_item {
   float: left; }
 
-/* line 112, all.css.scss */
+/* line 113, all.css.scss */
 .pic_item_normal {
   width: 200px;
   height: 133px; }
 
-/* line 116, all.css.scss */
+/* line 117, all.css.scss */
 .pic_item_featured {
   width: 800px;
   height: 300px; }
 
-/* line 120, all.css.scss */
+/* line 121, all.css.scss */
 .pic {
   position: relative;
   margin-left: 2px;
   margin-right: 3px;
   cursor: pointer; }
 
-/* line 126, all.css.scss */
+/* line 127, all.css.scss */
 .pic_normal {
   width: 195px;
   height: 133px; }
 
-/* line 130, all.css.scss */
+/* line 131, all.css.scss */
 .pic_featured {
   width: 525px;
   height: 300px; }
 
-/* line 134, all.css.scss */
+/* line 135, all.css.scss */
 .pic_img {
   width: 100%;
   height: 100%; }
 
-/* line 138, all.css.scss */
+/* line 139, all.css.scss */
 .pic_header {
   display: none;
   padding: 4px 6px 4px 6px;
@@ -166,7 +167,7 @@ a {
   font-size: 12px;
   color: #AAA; }
 
-/* line 149, all.css.scss */
+/* line 150, all.css.scss */
 .pic_footer {
   padding: 4px 6px 4px 6px;
   position: absolute;
@@ -177,20 +178,20 @@ a {
   font-size: 12px;
   color: #CCC; }
 
-/* line 159, all.css.scss */
+/* line 160, all.css.scss */
 .pic_footer_normal {
   width: 183px; }
 
-/* line 162, all.css.scss */
+/* line 163, all.css.scss */
 .pic_footer_featured {
   width: 513px; }
 
-/* line 165, all.css.scss */
+/* line 166, all.css.scss */
 .pic_footer_info {
   height: 14px;
   margin-bottom: 4px; }
 
-/* line 169, all.css.scss */
+/* line 170, all.css.scss */
 .pic_footer_name {
   float: left;
   height: 12px;
@@ -198,7 +199,7 @@ a {
   font-weight: bold;
   color: #96F; }
 
-/* line 176, all.css.scss */
+/* line 177, all.css.scss */
 .pic_footer_price {
   float: right;
   height: 12px;
@@ -206,21 +207,21 @@ a {
   font-weight: bold;
   color: #CCC; }
 
-/* line 183, all.css.scss */
+/* line 184, all.css.scss */
 .pic_footer_tagline {
   font-weight: bold;
   font-size: 12px;
   color: #CCC;
   display: none; }
 
-/* line 189, all.css.scss */
+/* line 190, all.css.scss */
 .pic_footer_summary {
   font-weight: normal;
   font-size: 12px;
   color: #CCC;
   display: none; }
 
-/* line 195, all.css.scss */
+/* line 196, all.css.scss */
 .product_info {
   display: hidden;
   float: left;
@@ -229,7 +230,7 @@ a {
   margin-left: 16px;
   margin-right: 3px; }
 
-/* line 203, all.css.scss */
+/* line 204, all.css.scss */
 .product_purchase {
   width: 220px;
   height: 118px;
@@ -238,7 +239,7 @@ a {
   border: 1px #EEE solid;
   padding: 14px; }
 
-/* line 211, all.css.scss */
+/* line 212, all.css.scss */
 .purchase_name {
   height: 18px;
   font-size: 20px;
@@ -246,7 +247,7 @@ a {
   color: #222;
   margin-bottom: 6px; }
 
-/* line 218, all.css.scss */
+/* line 219, all.css.scss */
 .purchase_tagline {
   height: 12px;
   font-size: 14px;
@@ -254,17 +255,17 @@ a {
   color: #AAA;
   margin-bottom: 10px; }
 
-/* line 225, all.css.scss */
+/* line 226, all.css.scss */
 .purchase_price {
   color: #335687; }
 
-/* line 228, all.css.scss */
+/* line 229, all.css.scss */
 .purchase_divide {
   margin-top: 6px;
   border-top: 1px #DDD solid;
   margin-bottom: 12px; }
 
-/* line 234, all.css.scss */
+/* line 235, all.css.scss */
 .purchase_addtocart {
   margin-left: 44px;
   margin-right: 44px;
@@ -285,19 +286,19 @@ a {
   text-decoration: none;
   text-shadow: 1px 1px 0px #528ecc; }
 
-/* line 253, all.css.scss */
+/* line 254, all.css.scss */
 .purchase_addtocart:hover {
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff));
   background: -moz-linear-gradient(center top, #378de5 5%, #79bbff 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
   background-color: #378de5; }
 
-/* line 258, all.css.scss */
+/* line 259, all.css.scss */
 .purchase_addtocart:active {
   position: relative;
   top: 1px; }
 
-/* line 262, all.css.scss */
+/* line 263, all.css.scss */
 .product_influence {
   margin-top: 12px;
   width: 220px;
@@ -307,7 +308,7 @@ a {
   border: 1px #EEE solid;
   padding: 14px; }
 
-/* line 271, all.css.scss */
+/* line 272, all.css.scss */
 .product_influence_title {
   height: 12px;
   font-size: 14px;
@@ -315,19 +316,19 @@ a {
   color: #335687;
   margin-bottom: 16px; }
 
-/* line 278, all.css.scss */
+/* line 279, all.css.scss */
 .product_invent {
   padding-left: 10px;
   height: 50px;
   margin-bottom: 10px; }
 
-/* line 283, all.css.scss */
+/* line 284, all.css.scss */
 .product_invent_pic {
   float: left;
   width: 50px;
   height: 50px; }
 
-/* line 288, all.css.scss */
+/* line 289, all.css.scss */
 .product_invent_name {
   margin-top: 10px;
   margin-left: 10px;
@@ -338,11 +339,11 @@ a {
   color: #999;
   margin-bottom: 10px; }
 
-/* line 298, all.css.scss */
+/* line 299, all.css.scss */
 .product_influence_count {
   padding-left: 10px; }
 
-/* line 301, all.css.scss */
+/* line 302, all.css.scss */
 .product_influence_count_title {
   float: left;
   height: 10px;
@@ -350,7 +351,7 @@ a {
   font-weight: bold;
   color: #7084A0; }
 
-/* line 308, all.css.scss */
+/* line 309, all.css.scss */
 .product_influence_count_number {
   float: left;
   height: 10px;
@@ -359,7 +360,7 @@ a {
   color: #5A6A80;
   margin-left: 6px; }
 
-/* line 316, all.css.scss */
+/* line 317, all.css.scss */
 .list_footer {
   padding: 6px;
   margin-top: 6px;
@@ -375,7 +376,7 @@ a {
   font-size: 14px;
   -webkit-font-smoothing: antialiased; }
 
-/* line 331, all.css.scss */
+/* line 332, all.css.scss */
 .power {
   margin-top: 4px;
   margin-right: 6px;

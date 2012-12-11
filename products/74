@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 74,
+    "ideationID"         : 45466,
+    "name"               : "Verseur",
+    "url"                : "/products/74-Verseur-Multi-Function-Wine-Opener",
+    "tagline"            : "Full Bottle Service",
+    "paidOut"            : "$34,371.77",
+    "price"              : {
+      "formatted"        : "$24.99",
+      "raw"              : 24.99
+    },
+    "influencerCount"      : 661,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2010-11-12 16:47:12 -0500",
+      "development"      : {
+        "started"        : "2010-11-27 08:38:48 -0500",
+        "ended"          : "2011-01-27 11:50:35 -0500"
+      },
+      "sales": {
+        "started"        : "2011-06-17 14:24:20 -0400",
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 41611,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/265736/icon/VERSEUR_FEATURES_01-1.jpg?1353424429",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265736/thumb/VERSEUR_FEATURES_01-1.jpg?1353424429",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265736/one95/VERSEUR_FEATURES_01-1.jpg?1353424429",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/265736/mid/VERSEUR_FEATURES_01-1.jpg?1353424429",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265736/large/VERSEUR_FEATURES_01-1.jpg?1353424429",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/265736/five25/VERSEUR_FEATURES_01-1.jpg?1353424429",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/265736/six95/VERSEUR_FEATURES_01-1.jpg?1353424429"
+    },
+    "description"        : {
+      "summary"          : "Verseur is a wine lover’s multitool, combining everything you need to open, serve, and save your favorite wines. . In addition to an easy-to-use corkscrew, Verseur also includes a foil cutter, a pour spout, and a tight-sealing stopper for keeping your opened bottle fresh.",
+      "raw"              : "Verseur is a wine lover\u2019s multitool, combining everything you need to open, serve, and save your favorite wines. In addition to an easy-to-use corkscrew, Verseur also includes a foil cutter, a pour spout, and a tight-sealing stopper for keeping your opened bottle fresh.  \r\n \r\nFeatures: \r\n- Uses a single-motion corkscrew mechanism to slide out the cork without pulling or tugging\r\n- Built-in pour spout allows you to serve without dripping or making a mess\r\n- Integrated black rubber stopper for preserving leftovers\r\n- Foil cutter incorporated into handle\r\n \r\nBody and twisting top constructed from stainless steel, with black rubber pourer and cap.\r\n",
+      "formatted"        : "<p>Verseur is a wine lover\u2019s multitool, combining everything you need to open, serve, and save your favorite wines. In addition to an easy-to-use corkscrew, Verseur also includes a foil cutter, a pour spout, and a tight-sealing stopper for keeping your opened bottle fresh.</p>\n<p>Features: <br />\n- Uses a single-motion corkscrew mechanism to slide out the cork without pulling or tugging<br />\n- Built-in pour spout allows you to serve without dripping or making a mess<br />\n- Integrated black rubber stopper for preserving leftovers<br />\n- Foil cutter incorporated into handle</p>\n<p>Body and twisting top constructed from stainless steel, with black rubber pourer and cap.</p>"
+    },
+    "inventor" : {
+      "name"             : "Awesemo",
+      "id"             : "43844",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/43834/icon/Angelo_Cacchione avatar.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/43834/thumb/Angelo_Cacchione avatar.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/43834/one95/Angelo_Cacchione avatar.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/43834/mid/Angelo_Cacchione avatar.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/43834/five25/Angelo_Cacchione avatar.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/43834/six95/Angelo_Cacchione avatar.jpg"
+      }
+    }
+  }
+}

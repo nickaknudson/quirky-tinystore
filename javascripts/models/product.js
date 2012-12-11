@@ -1,7 +1,7 @@
 (function() {
 
   Models.Product = Backbone.RelationalModel.extend({
-    urlRoot: "/products",
+    urlRoot: "products",
     parse: function(res) {
       return res.product;
     }

@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 254,
+    "ideationID"         : 136748,
+    "name"               : "Props",
+    "url"                : "/products/254-Props-earbud-croakies",
+    "tagline"            : "Drop The Beat, Not Your Buds",
+    "paidOut"            : "$26,063.63",
+    "price"              : {
+      "formatted"        : "$5.99",
+      "raw"              : 5.99
+    },
+    "influencerCount"      : 3875,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2011-12-03 15:52:54 -0500",
+      "development"      : {
+        "started"        : "2012-02-01 18:52:26 -0500",
+        "ended"          : "2012-03-08 11:59:12 -0500"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 54968,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/197336/icon/PRODUCT_FEATURES_01.jpg?1341266758",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/197336/thumb/PRODUCT_FEATURES_01.jpg?1341266758",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/197336/one95/PRODUCT_FEATURES_01.jpg?1341266758",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/197336/mid/PRODUCT_FEATURES_01.jpg?1341266758",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/197336/large/PRODUCT_FEATURES_01.jpg?1341266758",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/197336/five25/PRODUCT_FEATURES_01.jpg?1341266758",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/197336/six95/PRODUCT_FEATURES_01.jpg?1341266758"
+    },
+    "description"        : {
+      "summary"          : "Keep up the tunes with Props! This simple and useful headphone keeper is designed to keep your earbuds tethered to you, making them easily accessible when you want to return to your musical oasis. . Worn around the neck, Props extends like arms to your earbuds, keeping them in place and in the vicinity of your ears.",
+      "raw"              : "<p>Keep up the tunes with Props! This simple and useful headphone keeper is designed to keep your earbuds tethered to you, making them easily accessible when you want to return to your musical oasis.  Worn around the neck, Props extends like arms to your earbuds, keeping them in place and in the vicinity of your ears.  So, the next time you snag your cord or remove your earbuds to speak with someone, they will be hanging within reach.</p>\r\n\r\n<p><strong>Features:</strong><br />\r\n- Tethers earbuds to the neck area\r\n- Length adjusting slider\r\n- Soft grip that won't damage earphone cables</p>\r\n\r\n<p><strong>Materials:</strong><br />\r\n- Polypropylene<br />\r\n- Woven nylon cord</p>\r\n\r\n<p><strong>Dimensions:</strong><br />\r\n- 26 in x .25 in x .6 in</p>\r\n\r\n<p>Available in blue, pink, gray, and white.</p>",
+      "formatted"        : "<p>Keep up the tunes with Props! This simple and useful headphone keeper is designed to keep your earbuds tethered to you, making them easily accessible when you want to return to your musical oasis.  Worn around the neck, Props extends like arms to your earbuds, keeping them in place and in the vicinity of your ears.  So, the next time you snag your cord or remove your earbuds to speak with someone, they will be hanging within reach.</p>\n<p><strong>Features:</strong><br />\n- Tethers earbuds to the neck area<br />\n- Length adjusting slider<br />\n- Soft grip that won&#8217;t damage earphone cables</p>\n<p><strong>Materials:</strong><br />\n- Polypropylene<br />\n- Woven nylon cord</p>\n<p><strong>Dimensions:</strong><br />\n- 26 in x .25 in x .6 in</p>\n<p>Available in blue, pink, gray, and white.</p>"
+    },
+    "inventor" : {
+      "name"             : "Momatthecape Kim Rumberger",
+      "id"             : "143783",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/168821/icon/Tim & Kim Dinner Train 2011.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/168821/thumb/Tim & Kim Dinner Train 2011.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/168821/one95/Tim & Kim Dinner Train 2011.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/168821/mid/Tim & Kim Dinner Train 2011.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/168821/five25/Tim & Kim Dinner Train 2011.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/168821/six95/Tim & Kim Dinner Train 2011.jpg"
+      }
+    }
+  }
+}

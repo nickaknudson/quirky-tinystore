@@ -1,0 +1,30 @@
+{
+  "success"     : true,
+  "products"    : [
+    { 
+      "product" : {
+        "id"      : 16
+      }
+    },
+    { 
+      "product" : {
+        "id"      : 54
+      }
+    },
+    { 
+      "product" : {
+        "id"      : 36
+      }
+    },
+    { 
+      "product" : {
+        "id"      : 268
+      }
+    },
+    { 
+      "product" : {
+        "id"      : 217
+      }
+    }
+  ]
+}
