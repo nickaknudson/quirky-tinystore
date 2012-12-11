@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 187,
+    "ideationID"         : 107591,
+    "name"               : "Stem",
+    "url"                : "/products/187-stem-citrus-fruit-juice-sprayer",
+    "tagline"            : "Tap the Flavor",
+    "paidOut"            : "$38,579.42",
+    "price"              : {
+      "formatted"        : "$4.99",
+      "raw"              : 4.99
+    },
+    "influencerCount"      : 1841,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2011-09-25 13:50:39 -0400",
+      "development"      : {
+        "started"        : "2011-10-07 16:52:42 -0400",
+        "ended"          : "2011-12-01 11:57:44 -0500"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 121447,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/244154/icon/PRODUCT_FEATURES_1.jpg?1349194541",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/244154/thumb/PRODUCT_FEATURES_1.jpg?1349194541",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/244154/one95/PRODUCT_FEATURES_1.jpg?1349194541",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/244154/mid/PRODUCT_FEATURES_1.jpg?1349194541",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/244154/large/PRODUCT_FEATURES_1.jpg?1349194541",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/244154/five25/PRODUCT_FEATURES_1.jpg?1349194541",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/244154/six95/PRODUCT_FEATURES_1.jpg?1349194541"
+    },
+    "description"        : {
+      "summary"          : "Spray it, don’t squeeze it! Stem is designed to allow a cook to spray juice directly from a citrus fruit. . No longer do you have to cut and squeeze your fruit to get the juice out like a common cook.",
+      "raw"              : "Spray it, don\u2019t squeeze it! Stem is designed to allow a cook to spray juice directly from a citrus fruit.  No longer do you have to cut and squeeze your fruit to get the juice out like a common cook.  With only one finger you can now spray citrus juice on your favorite foods evenly.  Let Stem add a little zest in your kitchen and on your food!\r\n\r\n\r\n<p><strong>Features:<br />\r\n</strong>-Easy disassembly for cleaning<br />\r\n-Serrated teeth allowing for simple insertion into fruit<br />\r\n-Sprays and distributes juice evenly<br />\r\n-Small and easy to store</p>\r\n\r\n<p><strong>Materials:<br />\r\n</strong>-Polypropylene - Food safe plastic</p>\r\n\r\n<p><strong>Dimensions:<br />\r\n</strong>-93.5mm (height), 24mm (diameter)</p>\r\n\r\n<p><em>Patent pending</em><br /></p>",
+      "formatted"        : "<p>Spray it, don\u2019t squeeze it! Stem is designed to allow a cook to spray juice directly from a citrus fruit.  No longer do you have to cut and squeeze your fruit to get the juice out like a common cook.  With only one finger you can now spray citrus juice on your favorite foods evenly.  Let Stem add a little zest in your kitchen and on your food!</p>\n<p><strong>Features:<br />\n</strong>-Easy disassembly for cleaning<br />\n-Serrated teeth allowing for simple insertion into fruit<br />\n-Sprays and distributes juice evenly<br />\n-Small and easy to store</p>\n<p><strong>Materials:<br />\n</strong>-Polypropylene &#8211; Food safe plastic</p>\n<p><strong>Dimensions:<br />\n</strong>-93.5mm (height), 24mm (diameter)</p>\n<p><em>Patent pending</em><br /></p>"
+    },
+    "inventor" : {
+      "name"             : "Tim Houle",
+      "id"             : "96383",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/122336/icon/Photo 12.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/122336/thumb/Photo 12.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/122336/one95/Photo 12.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/122336/mid/Photo 12.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/122336/five25/Photo 12.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/122336/six95/Photo 12.jpg"
+      }
+    }
+  }
+}

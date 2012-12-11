@@ -3,22 +3,22 @@
   "products"    : [
     { 
       "product" : {
-        "id"      : 496
+        "id"      : 72
       }
     },
     { 
       "product" : {
-        "id"      : 254
-      }
-    },
-    { 
-      "product" : {
-        "id"      : 27
+        "id"      : 187
       }
     },
     { 
       "product" : {
         "id"      : 84
+      }
+    },
+    { 
+      "product" : {
+        "id"      : 254
       }
     },
     { 
