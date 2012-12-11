@@ -6,6 +6,7 @@ window.Router = Backbone.Router.extend(
     'iphone_cases': 'iphone_cases'
     'electronics':  'electronics'
     'kitchen':      'kitchen'
+    'organization': 'organization'
 
   home: ()->
     view = new Views.Products({collection: app.iphone_cases})
@@ -26,5 +27,10 @@ window.Router = Backbone.Router.extend(
     view = new Views.Products({collection: app.kitchen})
     app.content.show(view)
     app.kitchen.fetch()
+
+  organization: ()->
+    view = new Views.Products({collection: app.organization})
+    app.content.show(view)
+    app.organization.fetch()
 
 )

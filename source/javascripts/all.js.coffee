@@ -12,6 +12,7 @@ $(document).ready ()->
   app.iphone_cases = new Collections.Products(null, {list: 'iphone_cases'})
   app.electronics = new Collections.Products(null, {list: 'electronics'})
   app.kitchen = new Collections.Products(null, {list: 'kitchen'})
+  app.organization = new Collections.Products(null, {list: 'organization'})
 
   # Application Regions
   app.addRegions(

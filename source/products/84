@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 84,
+    "ideationID"         : 4792,
+    "name"               : "Cordies",
+    "url"                : "/products/84-Cordies-Cable-Organizers",
+    "tagline"            : "Keep Cables On The Table",
+    "paidOut"            : "$132,265.58",
+    "price"              : {
+      "formatted"        : "$9.99",
+      "raw"              : 9.99
+    },
+    "influencerCount"      : 559,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2009-08-24 03:29:39 -0400",
+      "development"      : {
+        "started"        : "2009-09-02 12:12:37 -0400",
+        "ended"          : "2009-09-30 17:29:32 -0400"
+      },
+      "sales": {
+        "started"        : false,
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 380081,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/176798/icon/CORDIES_SHOP_01.jpg?1337718677",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176798/thumb/CORDIES_SHOP_01.jpg?1337718677",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176798/one95/CORDIES_SHOP_01.jpg?1337718677",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/176798/mid/CORDIES_SHOP_01.jpg?1337718677",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176798/large/CORDIES_SHOP_01.jpg?1337718677",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176798/five25/CORDIES_SHOP_01.jpg?1337718677",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/176798/six95/CORDIES_SHOP_01.jpg?1337718677"
+    },
+    "description"        : {
+      "summary"          : "Cordies is new and improved! We've redesigned our classic cable organization product to make it cleaner and more compact.",
+      "raw"              : "Cordies is new and improved! We've redesigned our classic cable organization product to make it cleaner and more compact.\r\n\r\nCordies keeps all of your cables organized and weighted down: phone chargers, digital camera cords, audio cables... whatever isn't in use but shouldn't be flopping around.\r\n\r\nFeatures:\r\n- Five rubber grips with four slots, each of which can hold the ends of several cords\r\n- Weighted base for stability\r\n- Small footprint (fits even the most cluttered workspaces)\r\n- Tight grip keeps smaller cables USB and headphone cords in line\r\n\r\nDimensions:\r\n2.75in x 1.57in x 1.46in\r\n(70mm x 40mm x 37mm)",
+      "formatted"        : "<p>Cordies is new and improved! We&#8217;ve redesigned our classic cable organization product to make it cleaner and more compact.</p>\n<p>Cordies keeps all of your cables organized and weighted down: phone chargers, digital camera cords, audio cables&#8230; whatever isn&#8217;t in use but shouldn&#8217;t be flopping around.</p>\n<p>Features:<br />\n- Five rubber grips with four slots, each of which can hold the ends of several cords<br />\n- Weighted base for stability<br />\n- Small footprint (fits even the most cluttered workspaces)<br />\n- Tight grip keeps smaller cables <span class=\"caps\">USB</span> and headphone cords in line</p>\n<p>Dimensions:<br />\n2.75in x 1.57in x 1.46in<br />\n(70mm x 40mm x 37mm)</p>"
+    },
+    "inventor" : {
+      "name"             : "Stephen Stewart",
+      "id"             : "519",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/icon/cordies.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/thumb/cordies.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/one95/cordies.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/mid/cordies.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/five25/cordies.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/519/six95/cordies.jpg"
+      }
+    }
+  }
+}
