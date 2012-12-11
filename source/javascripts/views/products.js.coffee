@@ -15,7 +15,7 @@ Views.Products = Backbone.Marionette.CompositeView.extend(
   onRender: ()->
     #@$('.scroll_left').show()
     @$('.scroll_right').show()
-    #@$('.scroll_left').hide() if @$('.list_content').css("marginLeft") == "0px"
+    @$('.scroll_left').hide() if @$('.list_content').css("marginLeft") == "0px"
     @$('.scroll_right').hide() if parseInt(@$('.list_content').css("width")) >= @collection.length*200
 
   show_featured: ()->

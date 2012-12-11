@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 91,
+    "ideationID"         : 52776,
+    "name"               : "Mocubo",
+    "url"                : "/products/91-Mocubo-Modular-Cutting-Board",
+    "tagline"            : "One Stop Chop.",
+    "paidOut"            : "$14,425.52",
+    "price"              : {
+      "formatted"        : "$39.99",
+      "raw"              : 39.99
+    },
+    "influencerCount"      : 851,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2011-01-17 11:41:19 -0500",
+      "development"      : {
+        "started"        : "2011-02-07 19:33:36 -0500",
+        "ended"          : "2011-05-24 12:01:15 -0400"
+      },
+      "sales": {
+        "started"        : "2011-09-15 14:00:39 -0400",
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 4327,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/151835/icon/PRODUCT_FEATURES_01.jpg?1333410009",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/151835/thumb/PRODUCT_FEATURES_01.jpg?1333410009",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/151835/one95/PRODUCT_FEATURES_01.jpg?1333410009",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/151835/mid/PRODUCT_FEATURES_01.jpg?1333410009",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/151835/large/PRODUCT_FEATURES_01.jpg?1333410009",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/151835/five25/PRODUCT_FEATURES_01.jpg?1333410009",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/151835/six95/PRODUCT_FEATURES_01.jpg?1333410009"
+    },
+    "description"        : {
+      "summary"          : "Chop chop! It's time to take food preparation to the next level. . Mocubo is a bamboo cutting board with three food prep containers.",
+      "raw"              : "Chop chop! It's time to take food preparation to the next level. Mocubo is a bamboo cutting board with three food prep containers. You'll be able to slice, dice and organize like a master chef, without breaking a sweat.\r\n\r\nThe bamboo surface has been beautifully finished with a mineral oil treatment.    The strength and durability of bamboo makes it the ideal material for cutting board surfaces since it is less prone to knife markings and moisture absorption over time.  \r\n\r\n<b>Features:</b> \r\n-Bamboo cutting surface.\r\n-Three prep drawers that pull out so you can slide food in.\r\n-Rubber feet to keep board steady as you work.\r\n\r\n<b>Dimensions:</b>\r\n16\" width x 11\" height x 1.75\" depth\r\n",
+      "formatted"        : "<p>Chop chop! It&#8217;s time to take food preparation to the next level. Mocubo is a bamboo cutting board with three food prep containers. You&#8217;ll be able to slice, dice and organize like a master chef, without breaking a sweat.</p>\n<p>The bamboo surface has been beautifully finished with a mineral oil treatment.    The strength and durability of bamboo makes it the ideal material for cutting board surfaces since it is less prone to knife markings and moisture absorption over time.</p>\n<p><b>Features:</b> <br />\n-Bamboo cutting surface.<br />\n-Three prep drawers that pull out so you can slide food in.<br />\n-Rubber feet to keep board steady as you work.</p>\n<p><b>Dimensions:</b><br />\n16&quot; width x 11&quot; height x 1.75&quot; depth</p>"
+    },
+    "inventor" : {
+      "name"             : "justin",
+      "id"             : "34054",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/34048/icon/modjbil2.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/34048/thumb/modjbil2.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/34048/one95/modjbil2.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/34048/mid/modjbil2.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/34048/five25/modjbil2.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/34048/six95/modjbil2.jpg"
+      }
+    }
+  }
+}

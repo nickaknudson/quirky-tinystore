@@ -1,0 +1,56 @@
+
+{
+  "success"            : true,
+  "product"            : {
+    "id"                 : 122,
+    "ideationID"         : 57506,
+    "name"               : "Tether",
+    "url"                : "/products/122-Tether-Stemware-Saver",
+    "tagline"            : "Save Your Stemware",
+    "paidOut"            : "$34,026.08",
+    "price"              : {
+      "formatted"        : "$12.99",
+      "raw"              : 12.99
+    },
+    "influencerCount"      : 594,
+    "state"              : "sales",
+    "milestones"         : {
+      "submitted"        : "2011-03-19 12:09:14 -0400",
+      "development"      : {
+        "started"        : "2011-04-03 16:34:18 -0400",
+        "ended"          : "2011-05-17 11:56:52 -0400"
+      },
+      "sales": {
+        "started"        : "2011-09-26 17:10:13 -0400",
+        "ended"          : false
+      }
+    },
+    "quantitySold"       : 77617,
+    "images"             : {
+      "icon"             : "http://s3.amazonaws.com/kore/production/attachments/assets/176831/icon/TETHER_SHOP_01.jpg?1337720708",
+      "thumb"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176831/thumb/TETHER_SHOP_01.jpg?1337720708",
+      "small"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176831/one95/TETHER_SHOP_01.jpg?1337720708",
+      "medium"           : "http://s3.amazonaws.com/kore/production/attachments/assets/176831/mid/TETHER_SHOP_01.jpg?1337720708",
+      "large"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176831/large/TETHER_SHOP_01.jpg?1337720708",
+      "five25"            : "http://s3.amazonaws.com/kore/production/attachments/assets/176831/five25/TETHER_SHOP_01.jpg?1337720708",
+      "six95"             : "http://s3.amazonaws.com/kore/production/attachments/assets/176831/six95/TETHER_SHOP_01.jpg?1337720708"
+    },
+    "description"        : {
+      "summary"          : "Washing your wine glasses can be risky business, especially when you’re using your dishwasher. . Save your stemware with Tether, a flexible plastic rod that stabilizes your stemware as it goes through the cycle.",
+      "raw"              : "Washing your wine glasses can be risky business, especially when you\u2019re using your dishwasher. Save your stemware with Tether, a flexible plastic rod that stabilizes your stemware as it goes through the cycle.\r\n\r\nFeatures:\r\n- Comes in a pack of four.\r\n- Hollow base slides over dishwasher post.\r\n- End clasp clips onto wine glass stem.\r\n- Adjust the rod to fit the glass on either the top or bottom rack of your dishwasher.\r\n- Comes in purple.\r\n\r\nDimensions:\r\n7\u201d long\r\n\r\n<object width=\"500\" height=\"314\"><param name=\"movie\" value=\"http://www.youtube.com/v/eaQWXqGe4_g?fs=1&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/eaQWXqGe4_g?fs=1&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"500\" height=\"314\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>\r\n",
+      "formatted"        : "<p>Washing your wine glasses can be risky business, especially when you\u2019re using your dishwasher. Save your stemware with Tether, a flexible plastic rod that stabilizes your stemware as it goes through the cycle.</p>\n<p>Features:<br />\n- Comes in a pack of four.<br />\n- Hollow base slides over dishwasher post.<br />\n- End clasp clips onto wine glass stem.<br />\n- Adjust the rod to fit the glass on either the top or bottom rack of your dishwasher.<br />\n- Comes in purple.</p>\n<p>Dimensions:<br />\n7\u201d long</p>\n<p><object width=\"500\" height=\"314\"><param name=\"movie\" value=\"http://www.youtube.com/v/eaQWXqGe4_g?fs=1&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/eaQWXqGe4_g?fs=1&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"500\" height=\"314\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object></p>"
+    },
+    "inventor" : {
+      "name"             : "gary rose",
+      "id"             : "64692",
+      "images"           : {
+        "icon"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/90995/icon/g.jpg",
+        "thumb"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/90995/thumb/g.jpg",
+        "small"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/90995/one95/g.jpg",
+        "medium"         : "http://s3.amazonaws.com/kore/production/profiles/avatars/90995/mid/g.jpg",
+        "five25"          : "http://s3.amazonaws.com/kore/production/profiles/avatars/90995/five25/g.jpg",
+        "six69"           : "http://s3.amazonaws.com/kore/production/profiles/avatars/90995/six95/g.jpg"
+      }
+    }
+  }
+}
